@@ -1,11 +1,4 @@
-This is my Weather App!
-
-# Intro
-A small project made by me. This is project based on my knowledge of Python until now.
-I'm currently studying in: [SoftUni](https://softuni.bg/),
-[Programming Fundamentals with Python - September2022](https://softuni.bg/trainings/3840/programming-fundamentals-with-python-september-2022)
-
-![image](https://user-images.githubusercontent.com/68993494/185683680-bcfefe65-88fb-4192-b0b2-ff9130c39487.png)
+This is my Weather App, based on my current knowledge of Python :)
 
 # Desctiption
 This app uses the infomration from [OpenWeather](https://openweathermap.org/)
