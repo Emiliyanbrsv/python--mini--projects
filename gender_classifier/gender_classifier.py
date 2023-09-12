@@ -29,4 +29,4 @@ prediction_clf_tree = clf_tree.predict([[height, weight, shoe_size]])
 print(f"Tree Classifier prediction: {prediction_clf_tree[0]}")
 
 prediction_clf_svm = clf_svm.predict([[height, weight, shoe_size]])
-print(f"SVM Classifier prediction: {prediction_clf_tree[0]}")
+print(f"SVM Classifier prediction: {prediction_clf_svm[0]}")
