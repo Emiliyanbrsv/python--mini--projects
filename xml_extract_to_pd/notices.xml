@@ -1,0 +1,3039 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfFullNotice xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+<FullNotice>
+  <Id>5fce5165-4a9a-45ba-86d3-10a0c9bb07b7</Id>
+  <Notice>
+    <Id>5fce5165-4a9a-45ba-86d3-10a0c9bb07b7</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name xsi:nil="true" />
+      <Email>Corporate.contracts@bankofengland.co.uk</Email>
+      <Address1>Bank of England</Address1>
+      <Address2>Threadneedle Street</Address2>
+      <Town>LONDON</Town>
+      <Postcode>EC2R8AH</Postcode>
+      <Country>England</Country>
+      <Phone>0203 461 3000</Phone>
+      <WebAddress>www.bankofengland.co.uk</WebAddress>
+    </ContactDetails>
+    <Identifier>CON/1000843</Identifier>
+    <Title>Financial Times Subscription Renewal 2022-25</Title>
+    <Description>3 year Bank-wide Financial Times subscription</Description>
+    <CpvDescription>Subscription services</CpvDescription>
+    <PublishedDate>2023-01-05T15:19:12Z</PublishedDate>
+    <DeadlineDate>2022-10-31T17:00:00Z</DeadlineDate>
+    <ValueLow>899480</ValueLow>
+    <ValueHigh xsi:nil="true" />
+    <Postcode xsi:nil="true" />
+    <Region>United Kingdom</Region>
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>0</Lat>
+      <Lon>0</Lon>
+    </Location>
+    <Start>2022-11-01T00:00:00Z</Start>
+    <End>2025-10-31T00:00:00Z</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>79980000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>true</IsSuitableForSme>
+    <IsSuitableForVco>false</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2023-01-05T15:19:12Z</LastNotifiableUpdate>
+    <OrganisationName>BANK OF ENGLAND</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType xsi:nil="true" />
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2023-01-05T15:08:59Z</CreatedDate>
+  <LastUpdatedDate>2023-01-05T15:19:12Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>329653</Id>
+      <NoticeId>5fce5165-4a9a-45ba-86d3-10a0c9bb07b7</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>899480</Value>
+      <SupplierName>Financial Times</SupplierName>
+      <SupplierAddress>Bracken House, 1 Friday Street, London, EC4M 9BT</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>COMPANIES_HOUSE</ReferenceType>
+      <Reference>00227590</Reference>
+      <StartDate>2022-11-01T00:00:00Z</StartDate>
+      <EndDate>2025-10-31T00:00:00Z</EndDate>
+      <AwardedDate>2022-10-31T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>Other</AwardedProcedureType>
+      <AwardedProcedureTypeOther>Direct Award - Sole Supplier</AwardedProcedureTypeOther>
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>false</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>2d776754-11f5-4c3f-9016-7a109e254aeb</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>BANK OF ENGLAND</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>5fce5165-4a9a-45ba-86d3-10a0c9bb07b7</Id>
+      <NoticeId>5fce5165-4a9a-45ba-86d3-10a0c9bb07b7</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>79980000</Code>
+      <Description>Subscription services</Description>
+      <ParentCode>79900000</ParentCode>
+      <HasChildren>false</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>philip.henry@bankofengland.co.uk</ChangedByUser>
+      <DateChanged>2023-01-05T15:19:12Z</DateChanged>
+      <PublishedNoticeId>5fce5165-4a9a-45ba-86d3-10a0c9bb07b7</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>44</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>44ea9e0e-158a-472e-a966-4999cec00f7c</Id>
+  <Notice>
+    <Id>44ea9e0e-158a-472e-a966-4999cec00f7c</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name>Amy Richmond</Name>
+      <Email>Amy.Richmond@birmingham.gov.uk</Email>
+      <Address1>10 Woodcock Street</Address1>
+      <Address2>Birmingham</Address2>
+      <Town>West Midlands</Town>
+      <Postcode>B4 7WB</Postcode>
+      <Country>United Kingdom</Country>
+      <Phone>0121 464 8000</Phone>
+      <WebAddress xsi:nil="true" />
+    </ContactDetails>
+    <Identifier>IT-100-3740-P0496_2022 - AWARD</Identifier>
+    <Title>P0496_2022 - Provision of Independent Assessment of Financial Viability Appraisals Submitted in Support of Planning Applications and Appeals                                  - AWARD</Title>
+    <Description>This is further comp under Crown Commercial Services  - Estate Management Services (RM6168) lot 1 - total estate management for the provision of financial viability appraisals 
+          submitted in support of planning applications and appeals.</Description>
+    <CpvDescription>Technical planning services</CpvDescription>
+    <PublishedDate>2022-11-22T14:44:09Z</PublishedDate>
+    <DeadlineDate>2022-08-26T12:00:00+01:00</DeadlineDate>
+    <ValueLow>0</ValueLow>
+    <ValueHigh>0</ValueHigh>
+    <Postcode>B4 7WB</Postcode>
+    <Region>West Midlands</Region>
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>52.483372</Lat>
+      <Lon>-1.890745</Lon>
+    </Location>
+    <Start>2022-11-22T00:00:00Z</Start>
+    <End>2026-11-21T00:00:00Z</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>71356400</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>true</IsSuitableForSme>
+    <IsSuitableForVco>false</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2022-11-22T14:45:23Z</LastNotifiableUpdate>
+    <OrganisationName>Birmingham City Council</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType>Other</ProcedureType>
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>true</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-11-22T14:45:19Z</CreatedDate>
+  <LastUpdatedDate>2022-11-22T14:45:23Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>322870</Id>
+      <NoticeId>44ea9e0e-158a-472e-a966-4999cec00f7c</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>600000</Value>
+      <SupplierName>Lambert Smith Hampton Group Limited</SupplierName>
+      <SupplierAddress>UK House, 180 Oxford Street, United Kingdom, W1D 1NN</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>NONE</ReferenceType>
+      <Reference xsi:nil="true" />
+      <StartDate>2022-11-22T00:00:00Z</StartDate>
+      <EndDate>2026-11-21T00:00:00Z</EndDate>
+      <AwardedDate>2022-10-31T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>Open</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>false</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>2153bd27-58a8-4bba-bcba-2881d3ffcc87</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>Birmingham City Council</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>44ea9e0e-158a-472e-a966-4999cec00f7c</Id>
+      <NoticeId>44ea9e0e-158a-472e-a966-4999cec00f7c</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>71356400</Code>
+      <Description>Technical planning services</Description>
+      <ParentCode>71356000</ParentCode>
+      <HasChildren>false</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>support@in-tend.co.uk</ChangedByUser>
+      <DateChanged>2022-11-22T14:44:09Z</DateChanged>
+      <PublishedNoticeId>44ea9e0e-158a-472e-a966-4999cec00f7c</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>support@in-tend.co.uk</ChangedByUser>
+      <DateChanged>2022-11-22T14:45:14Z</DateChanged>
+      <PublishedNoticeId>44ea9e0e-158a-472e-a966-4999cec00f7c</PublishedNoticeId>
+      <VersionNumber>2</VersionNumber>
+    </PublishedNoticeVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>support@in-tend.co.uk</ChangedByUser>
+      <DateChanged>2022-11-22T14:45:23Z</DateChanged>
+      <PublishedNoticeId>44ea9e0e-158a-472e-a966-4999cec00f7c</PublishedNoticeId>
+      <VersionNumber>3</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>56</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>19a85798-fe41-4867-a01a-8b76a3ce3b5b</Id>
+  <Notice>
+    <Id>19a85798-fe41-4867-a01a-8b76a3ce3b5b</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name>Simon Wilmshurst</Name>
+      <Email>simon.wilmshurst235@mod.gov.uk</Email>
+      <Address1>DIO St Georges Court</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>Lichfield</Town>
+      <Postcode>WS14 9PY</Postcode>
+      <Country>England</Country>
+      <Phone xsi:nil="true" />
+      <WebAddress xsi:nil="true" />
+    </ContactDetails>
+    <Identifier>tender_314922/1144464</Identifier>
+    <Title>For the Provision of Aerodrome Obstacle Surveys (CAP232 and CAP1732). Three Year Programme for Financial Years 22/25, including Airfield Physical Survey Update</Title>
+    <Description>For the Provision of Aerodrome Obstacle Surveys (CAP232 and CAP1732). Three Year Programme for Financial Years 22/25, including Airfield Physical Survey Update</Description>
+    <CpvDescription>Technical support services</CpvDescription>
+    <PublishedDate>2022-11-08T16:58:24Z</PublishedDate>
+    <DeadlineDate>2022-11-01T12:00:00Z</DeadlineDate>
+    <ValueLow>597116.14</ValueLow>
+    <ValueHigh>597116.14</ValueHigh>
+    <Postcode xsi:nil="true" />
+    <Region>Any region</Region>
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>0</Lat>
+      <Lon>0</Lon>
+    </Location>
+    <Start>2022-11-02T00:00:00Z</Start>
+    <End>2025-03-31T00:00:00+01:00</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>71356300</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>true</IsSuitableForSme>
+    <IsSuitableForVco>false</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2022-11-08T16:58:24Z</LastNotifiableUpdate>
+    <OrganisationName>Ministry of Defence</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType>CallOffFromFrameworkAgreement</ProcedureType>
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-11-08T16:58:15Z</CreatedDate>
+  <LastUpdatedDate>2022-11-08T16:58:24Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>320239</Id>
+      <NoticeId>19a85798-fe41-4867-a01a-8b76a3ce3b5b</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>597116.14</Value>
+      <SupplierName>Arcadis LLP</SupplierName>
+      <SupplierAddress>5th Floor, 85 Strand, London, WC2R 0DW</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>COMPANIES_HOUSE</ReferenceType>
+      <Reference>02750217</Reference>
+      <StartDate>2022-11-03T00:00:00Z</StartDate>
+      <EndDate>2025-03-31T00:00:00+01:00</EndDate>
+      <AwardedDate>2022-11-02T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>CallOffFromFrameworkAgreement</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>false</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>8ea67954-b4c2-48af-8394-dac578ca8c99</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>Ministry of Defence</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>19a85798-fe41-4867-a01a-8b76a3ce3b5b</Id>
+      <NoticeId>19a85798-fe41-4867-a01a-8b76a3ce3b5b</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+    <AdditionalDetail>
+      <Id>f0a49aad-a7d5-4ce9-a93e-f28c47658453</Id>
+      <NoticeId>19a85798-fe41-4867-a01a-8b76a3ce3b5b</NoticeId>
+      <Description>n/a</Description>
+      <DataType>Attachment</DataType>
+      <Filename>20220901_V2__Redacted-ITT_NEC4-PSC-Agreement-copy (11).odt</Filename>
+      <MimeType>application/vnd.oasis.opendocument.text</MimeType>
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>71356300</Code>
+      <Description>Technical support services</Description>
+      <ParentCode>71356000</ParentCode>
+      <HasChildren>false</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>i.dawson@bravosolution.com</ChangedByUser>
+      <DateChanged>2022-11-08T16:58:24Z</DateChanged>
+      <PublishedNoticeId>19a85798-fe41-4867-a01a-8b76a3ce3b5b</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>41</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>03690761-21d4-446d-88aa-08375a8c532e</Id>
+  <Notice>
+    <Id>03690761-21d4-446d-88aa-08375a8c532e</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name>Carolina Blanco</Name>
+      <Email>Carolina.Blanco@sabp.nhs.uk</Email>
+      <Address1>THIRD FLOOR,LEATHERHEAD HOUSE, STATION ROAD</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>LEATHERHEAD</Town>
+      <Postcode>KT227AD</Postcode>
+      <Country>England</Country>
+      <Phone>07917150143</Phone>
+      <WebAddress xsi:nil="true" />
+    </ContactDetails>
+    <Identifier>SABP- 00663</Identifier>
+    <Title>Recruitment Services for Associate Director of Strategic Finance</Title>
+    <Description>The Associate Director of Strategic Finance role is crucial in:
+    •	Providing inspirational leadership and direction to the Strategic Finance team
+    •	Providing high quality information in line with the Trusts strategic objectives
+    •	Being an integral part of the senior management team, building credible and professional relationships but not afraid to challenge the operational divisions
+    •	Contributing to the strategic planning of business cases and projects whist providing financial and non-financial data in relation to performance</Description>
+    <CpvDescription>Recruitment services</CpvDescription>
+    <PublishedDate>2022-12-13T16:24:48Z</PublishedDate>
+    <DeadlineDate>2022-10-28T12:00:00+01:00</DeadlineDate>
+    <ValueLow>12000</ValueLow>
+    <ValueHigh xsi:nil="true" />
+    <Postcode xsi:nil="true" />
+    <Region>South East</Region>
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>0</Lat>
+      <Lon>0</Lon>
+    </Location>
+    <Start>2022-11-04T00:00:00Z</Start>
+    <End>2022-12-31T00:00:00Z</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>79600000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>true</IsSuitableForSme>
+    <IsSuitableForVco>false</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2022-12-13T16:24:48Z</LastNotifiableUpdate>
+    <OrganisationName>Surrey and Borders Partnership NHS Foundation Trust</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType xsi:nil="true" />
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-12-13T16:22:41Z</CreatedDate>
+  <LastUpdatedDate>2022-12-13T16:24:48Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>326616</Id>
+      <NoticeId>03690761-21d4-446d-88aa-08375a8c532e</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>12000</Value>
+      <SupplierName>INTERIM PROFESSIONALS LIMITED</SupplierName>
+      <SupplierAddress>1 THE GREEN
+      RICHMOND
+      Surrey
+      TW9 1PL
+      GB</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>COMPANIES_HOUSE</ReferenceType>
+      <Reference>08182125</Reference>
+      <StartDate>2022-11-04T00:00:00Z</StartDate>
+      <EndDate>2022-12-31T00:00:00Z</EndDate>
+      <AwardedDate>2022-11-04T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>CallOffFromFrameworkAgreement</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>true</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>89dfb6d5-384f-4ce6-b46e-7ce1a621e43f</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>Surrey and Borders Partnership NHS Foundation Trust</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>03690761-21d4-446d-88aa-08375a8c532e</Id>
+      <NoticeId>03690761-21d4-446d-88aa-08375a8c532e</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>79600000</Code>
+      <Description>Recruitment services</Description>
+      <ParentCode>79000000</ParentCode>
+      <HasChildren>true</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>Carolina.Blanco@sabp.nhs.uk</ChangedByUser>
+      <DateChanged>2022-12-13T16:24:48Z</DateChanged>
+      <PublishedNoticeId>03690761-21d4-446d-88aa-08375a8c532e</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>48</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>60073db0-f9a0-4db6-b231-374bc740c20a</Id>
+  <Notice>
+    <Id>60073db0-f9a0-4db6-b231-374bc740c20a</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name xsi:nil="true" />
+      <Email>procure@cefas.co.uk</Email>
+      <Address1>Pakefield Road</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>Lowestoft</Town>
+      <Postcode>NR33 0HT</Postcode>
+      <Country>England</Country>
+      <Phone xsi:nil="true" />
+      <WebAddress xsi:nil="true" />
+    </ContactDetails>
+    <Identifier>tender_256206/1140018</Identifier>
+    <Title>CEFAS22-91 Services to review the feasibility of setting up a Solid Waste Producers and Recyclers Association in Belize and provide a proposal on its implementation accordingly (Cefas Direct Award)</Title>
+    <Description>The supplier will review Belize&apos;s current solid waste infrastructure, policies and capabilities to assess whether implementing a Solid Waste Producers and Recyclers Association would be appropriate for Belize. The supplier will apply their previous experience and expertise of working on similar successful models that have been applied in other Small Island Developing Nations including Samoa and the Solomon Islands. The supplier is required to make recommendations to the Belize Solid Waste Management Authority on the feasibility of the Association, and if it is deemed feasible, the supplier will provide a proposal on the implementation and structure of such an association in Belize. For example, identification of the key stakeholders, and the legal and organisational structures to be implemented, to maximise the success. 
+    
+    Cefas will facilitate engagement and introductory meetings between the supplier and key stakeholders.  
+    
+    Deliverables:
+    
+    1.	Provide a set of recommendations, in writing and via engagement with Cefas and the Belize Solid Waste Management Authority, to advise on the feasibility of setting up a Solid Waste Producers and Recyclers Association in Belize. 
+    
+    2.	(If feasible) Provide an outline proposal in writing to Cefas and the Belize Solid Wast Management Authority as to how this Assocation could be implemented in Belize, to include:
+    a.	Recommended Stakeholder Participation (as a minimum): Who needs to be involved in the Association (e.g. legal/government/policy, waste producers, waste recyclers, communities).
+    b.	Financial Structures: What financial structures should be put in place to maximise transparency and opportunities for funding (e.g. from multi-lateral funders).
+    c.	Management and Governance: What structures should be put in place to ensure transparency and effective management, to maximise the ability of the association to increase the effectiveness of solid waste systems management in Belize. 
+    d.	Collaborative Waste Management: How can the Association work with the existing solid waste landscape in Belize to maximise opportunities to coordinate stakeholders within the sector and across other sectors (e.g. environmental NGOs, tourism, education).</Description>
+    <CpvDescription>Consulting services for water-supply and waste consultancy</CpvDescription>
+    <PublishedDate>2022-11-02T15:55:00Z</PublishedDate>
+    <DeadlineDate>2022-10-01T12:00:00+01:00</DeadlineDate>
+    <ValueLow>26400</ValueLow>
+    <ValueHigh xsi:nil="true" />
+    <Postcode xsi:nil="true" />
+    <Region>Any region</Region>
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>0</Lat>
+      <Lon>0</Lon>
+    </Location>
+    <Start>2022-11-02T00:00:00Z</Start>
+    <End>2023-03-31T00:00:00+01:00</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>71800000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>true</IsSuitableForSme>
+    <IsSuitableForVco>false</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2022-11-02T15:55:00Z</LastNotifiableUpdate>
+    <OrganisationName>Defra Network eTendering Portal</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType>SingleTenderActionNonOJEU</ProcedureType>
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-11-02T15:54:51Z</CreatedDate>
+  <LastUpdatedDate>2022-11-02T15:55:00Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>319023</Id>
+      <NoticeId>60073db0-f9a0-4db6-b231-374bc740c20a</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>26400</Value>
+      <SupplierName>Asia Pacific Waste Consultants Pty Ltd</SupplierName>
+      <SupplierAddress>TH4, 28 West Street North Sydney NSW 2060</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>NONE_OTHER</ReferenceType>
+      <Reference xsi:nil="true" />
+      <StartDate>2022-11-02T00:00:00Z</StartDate>
+      <EndDate>2023-03-31T00:00:00+01:00</EndDate>
+      <AwardedDate>2022-10-31T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>SingleTenderActionNonOJEU</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>false</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>1a983d0c-f2fe-4a97-99be-7cbbc1982860</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>Defra Network eTendering Portal</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>60073db0-f9a0-4db6-b231-374bc740c20a</Id>
+      <NoticeId>60073db0-f9a0-4db6-b231-374bc740c20a</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+    <AdditionalDetail>
+      <Id>d813b85a-914c-4346-ad57-731f99af0a5b</Id>
+      <NoticeId>60073db0-f9a0-4db6-b231-374bc740c20a</NoticeId>
+      <Description>n/a</Description>
+      <DataType>Attachment</DataType>
+      <Filename>CEFAS22-91 Contract for feasibility of waste producers org V2 - SIGNED_Redacted.pdf</Filename>
+      <MimeType>application/pdf</MimeType>
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>71800000</Code>
+      <Description>Consulting services for water-supply and waste consultancy</Description>
+      <ParentCode>71000000</ParentCode>
+      <HasChildren>false</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>i.dawson@bravosolution.com</ChangedByUser>
+      <DateChanged>2022-11-02T15:55:00Z</DateChanged>
+      <PublishedNoticeId>60073db0-f9a0-4db6-b231-374bc740c20a</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>43</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>e263f01b-f97c-4390-bf83-e56232ae30af</Id>
+  <Notice>
+    <Id>e263f01b-f97c-4390-bf83-e56232ae30af</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name>Alex Crutchley</Name>
+      <Email>alex.crutchley@eastriding.gov.uk</Email>
+      <Address1>Cross Street</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>BEVERLEY</Town>
+      <Postcode>HU179BA</Postcode>
+      <Country>England</Country>
+      <Phone>01262671051</Phone>
+      <WebAddress>www.eastriding.gov.uk</WebAddress>
+    </ContactDetails>
+    <Identifier>Destinations 21/2021</Identifier>
+    <Title>South Cliff Health and Wellbeing Scoping</Title>
+    <Description>2.1.1	South Cliff Caravan Park is the most valuable asset the Council holds in terms of net income generation.  The 2018/19 financial outturn provided a surplus of £1.925m. This has shown a steady increase year on year and continues to do so. It is anticipated that the net surplus for 2020/2021 financial year will be £3.225m.
+    The park currently comprises the following: 
+    •	862 permanent static caravan pitches 
+    •	208 touring pitches 
+    •	51 tent pitches 
+    •	40 fleet hire caravans and lodges for holiday lettings 
+    •	Two shower blocks, reception and Facility Manager&apos;s office 
+    •	Four properties with ground leases to third parties - Makis Leisure Centre, South Cliff Takeaway, South Cliff Supermarket and South Cliff Caravan Sales.
+    
+    The current occupancy levels achieved are: 
+    Permanent Static Pitches                    	90%
+    Touring Pitches 	75%
+    Tenting 	75%
+    Fleet Hire 	90%
+    
+    
+    
+    
+    
+    Occupancy levels are high and the site now suffers from limited the opportunities for increasing income further. During popular times of the year some pitches could be sold numerous times.
+    
+    The site is dissected by a road, Pioneer Road, which runs through the two halves of the park. On the southern side of the park is a newly developed area which houses the majority of our holiday customers and was opened in May 2019. The existing side of the park is caravan owner based with no holiday lets on that area.  
+    
+    2.1.2 	South Cliff also operates the Bridlington Park and Ride scheme which is situated on Wilsthorpe car park at the top of Pioneer Road, Bridlington, YO15 3QN. This scheme runs from Easter each year through to the end of October, at which point the facility closes for the winter. 
+    
+    2.2	Requirements 
+    
+    2.2.1	To consider viable options for high quality commercial opportunities that can make positive revenue contributions and would enhance the Council&apos;s Leisure and Tourism offer. 
+    2.2.2	To explore a health and wellbeing orientated facilities offer to enhance physical activity and / or healthy outcomes. 
+    2.2.3	To explore the potential of expansion to the current offer (both holiday and ownership) at South Cliff Holiday Park, utilising the land available.
+    2.2.4	To consult with relevant stakeholders and customers to ascertain their views and opinions as part of the process, at relevant stages. 
+    
+    
+    2.3	Required Outputs
+    2.3.1	To fully appraise current service and future delivery options
+    2.3.2	To engage with relevant stakeholders and customers to inform decisions.
+    2.3.3	To establish client / stakeholder meetings at regular intervals during the process. 
+    2.3.4	To propose a draft multi phase project to enable a fully informed decision making process but also to establish current position of the service and provide accurate information on external challenges to the business. 
+    2.3.5	To present a clear business plan for each phase of the project and present findings to key stakeholders.</Description>
+    <CpvDescription>Research and development services and related consultancy services</CpvDescription>
+    <PublishedDate>2021-11-04T08:11:15Z</PublishedDate>
+    <DeadlineDate>2021-10-31T00:00:00+01:00</DeadlineDate>
+    <ValueLow>31500</ValueLow>
+    <ValueHigh xsi:nil="true" />
+    <Postcode>YO15 3QN</Postcode>
+    <Region xsi:nil="true" />
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>54.094</Lat>
+      <Lon>-0.177</Lon>
+    </Location>
+    <Start>2022-01-03T00:00:00Z</Start>
+    <End>2022-05-31T00:00:00+01:00</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>73000000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>true</IsSuitableForSme>
+    <IsSuitableForVco>false</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2021-11-04T08:11:15Z</LastNotifiableUpdate>
+    <OrganisationName>.East Riding Of Yorkshire Council</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType xsi:nil="true" />
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2021-11-04T08:05:31Z</CreatedDate>
+  <LastUpdatedDate>2021-11-04T08:11:15Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>252789</Id>
+      <NoticeId>e263f01b-f97c-4390-bf83-e56232ae30af</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>31500</Value>
+      <SupplierName>Association of Public Service Excellence</SupplierName>
+      <SupplierAddress>3rd floor Trafford House
+      Chester Road, Old Trafford
+      Manchester M32 0RS</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>NONE_SOLE_TRADER</ReferenceType>
+      <Reference xsi:nil="true" />
+      <StartDate>2022-01-03T00:00:00Z</StartDate>
+      <EndDate>2022-05-31T00:00:00+01:00</EndDate>
+      <AwardedDate>2022-11-04T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>OpenOJEU</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>true</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>dfb3354c-b34d-4f6a-99de-041a163cef94</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>.East Riding Of Yorkshire Council</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>e263f01b-f97c-4390-bf83-e56232ae30af</Id>
+      <NoticeId>e263f01b-f97c-4390-bf83-e56232ae30af</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>73000000</Code>
+      <Description>Research and development services and related consultancy services</Description>
+      <ParentCode>73000000</ParentCode>
+      <HasChildren>true</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>alex.crutchley@eastriding.gov.uk</ChangedByUser>
+      <DateChanged>2021-11-04T08:11:15Z</DateChanged>
+      <PublishedNoticeId>e263f01b-f97c-4390-bf83-e56232ae30af</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>44</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>de5e1ec1-9600-46ba-af0b-a275ada758b7</Id>
+  <Notice>
+    <Id>de5e1ec1-9600-46ba-af0b-a275ada758b7</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name>Procurement</Name>
+      <Email>fcaprocurement@fca.org.uk</Email>
+      <Address1>12 Endeavour Square</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>London</Town>
+      <Postcode>E20 1JN</Postcode>
+      <Country>UK</Country>
+      <Phone>02070661000</Phone>
+      <WebAddress xsi:nil="true" />
+    </ContactDetails>
+    <Identifier>BIP739949406</Identifier>
+    <Title>GB-London: CON-22-252 SVA Project</Title>
+    <Description>FCA are looking to introduce additional verification checks on &apos;Connect&apos;. &apos;Connect is an external portal of the FCA that firms use to submit an authorisation application(s) or notification(s). In Connect we have a number of Application forms that require firms to input and update addresses, emails and phone numbers. Currently there are very little verification checks in place resulting in incomplete or inaccurate data being collated.  The following functionality is required 
+          1International Address checks across any country in real time. 
+          2International Address checks that link (where possible) the firm to the address supplied.
+          3Email Verification in real time - that checks for a valid email, correct format, and (where possible) links the email to an individual or firm. 
+          4Phone verification in real time - that checks for a valid mobile or landline (globally) and where possible links the phone number to an individual or firm.</Description>
+    <CpvDescription>Geographic information systems (GIS or equivalent)</CpvDescription>
+    <PublishedDate>2022-11-28T15:20:04Z</PublishedDate>
+    <DeadlineDate>2022-11-04T00:00:00Z</DeadlineDate>
+    <ValueLow>43500</ValueLow>
+    <ValueHigh xsi:nil="true" />
+    <Postcode xsi:nil="true" />
+    <Region>London</Region>
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>0</Lat>
+      <Lon>0</Lon>
+    </Location>
+    <Start>2022-12-01T00:00:00Z</Start>
+    <End>2024-11-30T00:00:00Z</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>38221000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>false</IsSuitableForSme>
+    <IsSuitableForVco>false</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2022-11-28T15:20:04Z</LastNotifiableUpdate>
+    <OrganisationName>Financial Conduct Authority</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType>NotSpecified</ProcedureType>
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-11-28T15:20:04Z</CreatedDate>
+  <LastUpdatedDate>2022-11-28T15:20:04Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>323842</Id>
+      <NoticeId>de5e1ec1-9600-46ba-af0b-a275ada758b7</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>43500</Value>
+      <SupplierName>Melissa Data Ltd</SupplierName>
+      <SupplierAddress>Floor 37
+              1 Canada Square
+              London
+              E14 5AA</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>NONE</ReferenceType>
+      <Reference xsi:nil="true" />
+      <StartDate>2022-12-01T00:00:00Z</StartDate>
+      <EndDate>2024-11-30T00:00:00Z</EndDate>
+      <AwardedDate>2022-11-04T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>NotSpecified</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>false</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>3b61231d-02bb-4612-8b74-e0dcd7de0c58</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>Financial Conduct Authority</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>de5e1ec1-9600-46ba-af0b-a275ada758b7</Id>
+      <NoticeId>de5e1ec1-9600-46ba-af0b-a275ada758b7</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData>Awarded under G-Cloud</TextData>
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+    <AdditionalDetail>
+      <Id>2ad1beb9-ff8d-4b31-8ad9-25a2be625029</Id>
+      <NoticeId>de5e1ec1-9600-46ba-af0b-a275ada758b7</NoticeId>
+      <Description>Please follow this link to view the notice.</Description>
+      <DataType>Link</DataType>
+      <Link>https://www.delta-esourcing.com/delta/respondToList.html?noticeId=739949406</Link>
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>38221000</Code>
+      <Description>Geographic information systems (GIS or equivalent)</Description>
+      <ParentCode>38220000</ParentCode>
+      <HasChildren>false</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>sean.groundwater@bipsolutions.com</ChangedByUser>
+      <DateChanged>2022-11-28T15:20:04Z</DateChanged>
+      <PublishedNoticeId>de5e1ec1-9600-46ba-af0b-a275ada758b7</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>34</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>3e58cca7-843c-4575-ba03-d13a25c4b087</Id>
+  <Notice>
+    <Id>3e58cca7-843c-4575-ba03-d13a25c4b087</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name>Procurement</Name>
+      <Email>fcaprocurement@fca.org.uk</Email>
+      <Address1>12 Endeavour Square</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>London</Town>
+      <Postcode>E20 1JN</Postcode>
+      <Country>UK</Country>
+      <Phone>02070661000</Phone>
+      <WebAddress xsi:nil="true" />
+    </ContactDetails>
+    <Identifier>BIP739649870</Identifier>
+    <Title>GB-London: CON-22-284 Salesforce Consultancy for SCV</Title>
+    <Description>The supplier will be required to fully deliver the following key high-level requirements:
+          •Contact Centre Users will be migrated to Service Cloud Voice from Lightning 
+          •All current processes will continue to function with no degradation
+          •There will be no negative impact to any internal, external, upstream or downstream systems / processes
+          •Pilot to be built, productionised, and rolled out to users if successful</Description>
+    <CpvDescription>Telecommunication consultancy services</CpvDescription>
+    <PublishedDate>2022-11-28T15:00:07Z</PublishedDate>
+    <DeadlineDate>2022-11-03T00:00:00Z</DeadlineDate>
+    <ValueLow>1092950.75</ValueLow>
+    <ValueHigh xsi:nil="true" />
+    <Postcode xsi:nil="true" />
+    <Region>London</Region>
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>0</Lat>
+      <Lon>0</Lon>
+    </Location>
+    <Start>2023-01-09T00:00:00Z</Start>
+    <End>2023-09-08T00:00:00+01:00</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>71316000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>false</IsSuitableForSme>
+    <IsSuitableForVco>false</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2022-11-28T15:00:07Z</LastNotifiableUpdate>
+    <OrganisationName>Financial Conduct Authority</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType>NotSpecified</ProcedureType>
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-11-28T15:00:07Z</CreatedDate>
+  <LastUpdatedDate>2022-11-28T15:00:07Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>323823</Id>
+      <NoticeId>3e58cca7-843c-4575-ba03-d13a25c4b087</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>1092950.75</Value>
+      <SupplierName>Softcat Plc</SupplierName>
+      <SupplierAddress>Solar House
+              Thames Industrial Estate
+              Fieldhouse Lane
+              Marlow
+              SL7 1LW</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>NONE</ReferenceType>
+      <Reference xsi:nil="true" />
+      <StartDate>2023-01-09T00:00:00Z</StartDate>
+      <EndDate>2023-09-08T00:00:00+01:00</EndDate>
+      <AwardedDate>2022-11-03T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>NotSpecified</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>false</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>672cc7d0-2d43-4ccb-a822-081f1b6d71b8</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>Financial Conduct Authority</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>3e58cca7-843c-4575-ba03-d13a25c4b087</Id>
+      <NoticeId>3e58cca7-843c-4575-ba03-d13a25c4b087</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData>Awarded via G-Cloud</TextData>
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+    <AdditionalDetail>
+      <Id>192734ae-2fcf-499d-8d88-959fbb5732ec</Id>
+      <NoticeId>3e58cca7-843c-4575-ba03-d13a25c4b087</NoticeId>
+      <Description>Please follow this link to view the notice.</Description>
+      <DataType>Link</DataType>
+      <Link>https://www.delta-esourcing.com/delta/respondToList.html?noticeId=739649870</Link>
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>71316000</Code>
+      <Description>Telecommunication consultancy services</Description>
+      <ParentCode>71310000</ParentCode>
+      <HasChildren>false</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>sean.groundwater@bipsolutions.com</ChangedByUser>
+      <DateChanged>2022-11-28T15:00:07Z</DateChanged>
+      <PublishedNoticeId>3e58cca7-843c-4575-ba03-d13a25c4b087</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>34</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>ef7b20d1-1890-4b02-81ad-869734c8382e</Id>
+  <Notice>
+    <Id>ef7b20d1-1890-4b02-81ad-869734c8382e</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name xsi:nil="true" />
+      <Email>commercial@maps.org.uk</Email>
+      <Address1>120 Holborn</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>LONDON</Town>
+      <Postcode>EC1N2TD</Postcode>
+      <Country>England</Country>
+      <Phone xsi:nil="true" />
+      <WebAddress>https://maps.org.uk</WebAddress>
+    </ContactDetails>
+    <Identifier>21-39-4</Identifier>
+    <Title>Award of Debt Relief Order Administration Hub Contract (Lot 4)</Title>
+    <Description>Delivery of a free to customer Debt Relief Order (DRO) administration service. This service is free to customers save for the DRO application fee.
+    The contract duration is three years with two optional extensions of 1 year each.</Description>
+    <CpvDescription>Other community, social and personal services</CpvDescription>
+    <PublishedDate>2023-01-04T16:37:41Z</PublishedDate>
+    <DeadlineDate>2022-04-12T12:00:00+01:00</DeadlineDate>
+    <ValueLow>14000000</ValueLow>
+    <ValueHigh xsi:nil="true" />
+    <Postcode xsi:nil="true" />
+    <Region>England</Region>
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>0</Lat>
+      <Lon>0</Lon>
+    </Location>
+    <Start>2023-02-01T00:00:00Z</Start>
+    <End>2026-01-31T00:00:00Z</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>98000000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>true</IsSuitableForSme>
+    <IsSuitableForVco>false</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2023-01-04T16:37:41Z</LastNotifiableUpdate>
+    <OrganisationName>Money and Pensions Service</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType xsi:nil="true" />
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-12-13T09:40:17Z</CreatedDate>
+  <LastUpdatedDate>2023-01-04T16:37:41Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>326386</Id>
+      <NoticeId>ef7b20d1-1890-4b02-81ad-869734c8382e</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>17200000</Value>
+      <SupplierName>The National Association Of Citizens Advice Bureaux</SupplierName>
+      <SupplierAddress>200 Aldersgate Street
+      EC1A 4HD
+      GB</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>COMPANIES_HOUSE</ReferenceType>
+      <Reference>01436945</Reference>
+      <StartDate>2023-02-01T00:00:00Z</StartDate>
+      <EndDate>2026-01-31T00:00:00Z</EndDate>
+      <AwardedDate>2022-11-04T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>OpenOJEU</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>true</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>cbb21317-dcdd-4b2d-ab59-7ce7c650f793</AwardGuid>
+    </AwardDetail>
+    <AwardDetail>
+      <Id>326386</Id>
+      <NoticeId>ef7b20d1-1890-4b02-81ad-869734c8382e</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>17200000</Value>
+      <SupplierName>Gregory Pennington Limited, part of the Financial Wellness Group</SupplierName>
+      <SupplierAddress>Think Park, Manchester, M17 1FQ</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>COMPANIES_HOUSE</ReferenceType>
+      <Reference>02855061</Reference>
+      <StartDate>2023-02-01T00:00:00Z</StartDate>
+      <EndDate>2026-01-31T00:00:00Z</EndDate>
+      <AwardedDate>2022-11-04T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>OpenOJEU</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>false</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>9ae27531-54ea-4aab-9351-46da9fe5f013</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>Money and Pensions Service</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>ef7b20d1-1890-4b02-81ad-869734c8382e</Id>
+      <NoticeId>ef7b20d1-1890-4b02-81ad-869734c8382e</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+    <AdditionalDetail>
+      <Id>4542c5f1-6c83-4ce0-b693-08dd041721c3</Id>
+      <NoticeId>ef7b20d1-1890-4b02-81ad-869734c8382e</NoticeId>
+      <Description>Redacted Contract - Citizens Advice, Lot 4 DRO Administration Hubs</Description>
+      <DataType>Attachment</DataType>
+      <Filename>Lot 4 Citizens Advice Contract.zip</Filename>
+      <MimeType>application/x-zip-compressed</MimeType>
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+    <AdditionalDetail>
+      <Id>39a54536-7571-4cd2-83b2-ffec505aacc9</Id>
+      <NoticeId>ef7b20d1-1890-4b02-81ad-869734c8382e</NoticeId>
+      <Description>Redacted Contract -GPL, Lot 4 DRO Administration Hubs</Description>
+      <DataType>Attachment</DataType>
+      <Filename>Lot 4 GPL Contract.zip</Filename>
+      <MimeType>application/x-zip-compressed</MimeType>
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>98000000</Code>
+      <Description>Other community, social and personal services</Description>
+      <ParentCode>98000000</ParentCode>
+      <HasChildren>true</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>louise.power@maps.org.uk</ChangedByUser>
+      <DateChanged>2023-01-04T16:37:41Z</DateChanged>
+      <PublishedNoticeId>ef7b20d1-1890-4b02-81ad-869734c8382e</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>81</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>3f211f37-5d42-4868-92a3-2a26b4ecf8e0</Id>
+  <Notice>
+    <Id>3f211f37-5d42-4868-92a3-2a26b4ecf8e0</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name xsi:nil="true" />
+      <Email>commercial@maps.org.uk</Email>
+      <Address1>120 Holborn</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>LONDON</Town>
+      <Postcode>EC1N2TD</Postcode>
+      <Country>England</Country>
+      <Phone xsi:nil="true" />
+      <WebAddress>https://maps.org.uk</WebAddress>
+    </ContactDetails>
+    <Identifier>21-39-1</Identifier>
+    <Title>Award of National Debt Advice Services Contracts (Lot 1)</Title>
+    <Description>Delivery of free to customer national regulated debt advice services that are available to anyone in England.
+    The contract duration is three years with two optional extensions of 1 year each.</Description>
+    <CpvDescription>Other community, social and personal services</CpvDescription>
+    <PublishedDate>2023-01-04T16:34:09Z</PublishedDate>
+    <DeadlineDate>2022-04-12T12:00:00+01:00</DeadlineDate>
+    <ValueLow>36000000</ValueLow>
+    <ValueHigh xsi:nil="true" />
+    <Postcode xsi:nil="true" />
+    <Region>England</Region>
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>0</Lat>
+      <Lon>0</Lon>
+    </Location>
+    <Start>2023-02-01T00:00:00Z</Start>
+    <End>2026-01-31T00:00:00Z</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>98000000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>true</IsSuitableForSme>
+    <IsSuitableForVco>false</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2023-01-04T16:34:09Z</LastNotifiableUpdate>
+    <OrganisationName>Money and Pensions Service</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType xsi:nil="true" />
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-12-13T09:04:03Z</CreatedDate>
+  <LastUpdatedDate>2023-01-04T16:34:09Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>326371</Id>
+      <NoticeId>3f211f37-5d42-4868-92a3-2a26b4ecf8e0</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>110900000</Value>
+      <SupplierName>Money Advice Trust</SupplierName>
+      <SupplierAddress>21 Garlick Hill, London, EC4V 2AU</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>NONE_OTHER</ReferenceType>
+      <Reference xsi:nil="true" />
+      <StartDate>2023-02-01T00:00:00Z</StartDate>
+      <EndDate>2026-01-31T00:00:00Z</EndDate>
+      <AwardedDate>2022-11-04T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>OpenOJEU</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>true</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>8d68e610-6684-48d2-9ea3-20462051e3c1</AwardGuid>
+    </AwardDetail>
+    <AwardDetail>
+      <Id>326371</Id>
+      <NoticeId>3f211f37-5d42-4868-92a3-2a26b4ecf8e0</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>110900000</Value>
+      <SupplierName>NATIONAL ASSOCIATION OF CITIZENS ADVICE BUREAUX(THE)</SupplierName>
+      <SupplierAddress>200 Aldersgate Street
+      LONDON
+      EC1A 4HD
+      GB</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>COMPANIES_HOUSE</ReferenceType>
+      <Reference>01436945</Reference>
+      <StartDate>2023-02-01T00:00:00Z</StartDate>
+      <EndDate>2026-01-31T00:00:00Z</EndDate>
+      <AwardedDate>2022-11-04T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>OpenOJEU</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>true</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>b6142e29-df92-48ed-89ca-401070f91792</AwardGuid>
+    </AwardDetail>
+    <AwardDetail>
+      <Id>326371</Id>
+      <NoticeId>3f211f37-5d42-4868-92a3-2a26b4ecf8e0</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>110900000</Value>
+      <SupplierName>Gregory Pennington Limited, part of the Financial Wellness Group</SupplierName>
+      <SupplierAddress>Think Park, Manchester, M17 1FQ</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>COMPANIES_HOUSE</ReferenceType>
+      <Reference>02855061</Reference>
+      <StartDate>2023-02-01T00:00:00Z</StartDate>
+      <EndDate>2026-01-31T00:00:00Z</EndDate>
+      <AwardedDate>2022-11-04T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>OpenOJEU</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>false</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>21b69e07-1dfe-4f41-bb02-bbf579654c6a</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>Money and Pensions Service</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>3f211f37-5d42-4868-92a3-2a26b4ecf8e0</Id>
+      <NoticeId>3f211f37-5d42-4868-92a3-2a26b4ecf8e0</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+    <AdditionalDetail>
+      <Id>684c74b7-f2e1-496c-a088-ae36e9e472a1</Id>
+      <NoticeId>3f211f37-5d42-4868-92a3-2a26b4ecf8e0</NoticeId>
+      <Description>Redacted Contract - Citizen&apos;s Advice, Lot 1 National Services</Description>
+      <DataType>Attachment</DataType>
+      <Filename>Lot 1 Citizens Advice Contract.zip</Filename>
+      <MimeType>application/x-zip-compressed</MimeType>
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+    <AdditionalDetail>
+      <Id>e0fb9dd2-0ae1-42f8-bee7-2f2af715292f</Id>
+      <NoticeId>3f211f37-5d42-4868-92a3-2a26b4ecf8e0</NoticeId>
+      <Description>Redacted Contract - GPL, Lot 1 National Services</Description>
+      <DataType>Attachment</DataType>
+      <Filename>Lot 1 GPL Contract.zip</Filename>
+      <MimeType>application/x-zip-compressed</MimeType>
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+    <AdditionalDetail>
+      <Id>dfea3c4a-b651-4547-9656-eb2cb792ecd7</Id>
+      <NoticeId>3f211f37-5d42-4868-92a3-2a26b4ecf8e0</NoticeId>
+      <Description>Redacted Contract - MAT, Lot 1 National Services</Description>
+      <DataType>Attachment</DataType>
+      <Filename>Lot 1 MAT Contract.zip</Filename>
+      <MimeType>application/x-zip-compressed</MimeType>
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>98000000</Code>
+      <Description>Other community, social and personal services</Description>
+      <ParentCode>98000000</ParentCode>
+      <HasChildren>true</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>louise.power@maps.org.uk</ChangedByUser>
+      <DateChanged>2023-01-04T16:34:09Z</DateChanged>
+      <PublishedNoticeId>3f211f37-5d42-4868-92a3-2a26b4ecf8e0</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>128</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>c161c49b-1e0a-460d-a6ea-603f10f9d877</Id>
+  <Notice>
+    <Id>c161c49b-1e0a-460d-a6ea-603f10f9d877</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name>James Skilling</Name>
+      <Email>james.skilling@westsussex.gov.uk</Email>
+      <Address1>County Hall,West Street</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>CHICHESTER</Town>
+      <Postcode>PO191RQ</Postcode>
+      <Country>England</Country>
+      <Phone>0330 222 5432</Phone>
+      <WebAddress xsi:nil="true" />
+    </ContactDetails>
+    <Identifier>WSCC - JS - Hybrid Mail Services</Identifier>
+    <Title>WSCC - JS - Hybrid Mail Services</Title>
+    <Description>WSCC - JS - Hybrid Mail Services
+    
+    Call-off from CCS RM6017 (Lot 7)
+    
+    Contract Term 3yr +1yr +1yr</Description>
+    <CpvDescription>Electronic mail software package</CpvDescription>
+    <PublishedDate>2022-12-09T16:42:02Z</PublishedDate>
+    <DeadlineDate>2022-10-31T12:00:00Z</DeadlineDate>
+    <ValueLow>350000</ValueLow>
+    <ValueHigh>400000</ValueHigh>
+    <Postcode>PO19 1RG</Postcode>
+    <Region xsi:nil="true" />
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>50.842375</Lat>
+      <Lon>-0.785078</Lon>
+    </Location>
+    <Start>2022-11-14T00:00:00Z</Start>
+    <End>2025-11-13T00:00:00Z</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>48223000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>true</IsSuitableForSme>
+    <IsSuitableForVco>false</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2022-12-09T16:42:02Z</LastNotifiableUpdate>
+    <OrganisationName>West Sussex County Council</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType xsi:nil="true" />
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-12-09T16:37:21Z</CreatedDate>
+  <LastUpdatedDate>2022-12-09T16:42:02Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>326151</Id>
+      <NoticeId>c161c49b-1e0a-460d-a6ea-603f10f9d877</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>400000</Value>
+      <SupplierName>FINANCIAL DATA MANAGEMENT PLC</SupplierName>
+      <SupplierAddress>UNIT 7 ELECTRA BUSINESS PARK
+      E16 4ES
+      GB</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>COMPANIES_HOUSE</ReferenceType>
+      <Reference>02827644</Reference>
+      <StartDate>2022-11-14T00:00:00Z</StartDate>
+      <EndDate>2025-11-13T00:00:00Z</EndDate>
+      <AwardedDate>2022-11-01T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>CallOffFromFrameworkAgreement</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>true</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>d4e72eb5-caa6-44c9-8044-030d9267abda</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>West Sussex County Council</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>c161c49b-1e0a-460d-a6ea-603f10f9d877</Id>
+      <NoticeId>c161c49b-1e0a-460d-a6ea-603f10f9d877</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>48223000</Code>
+      <Description>Electronic mail software package</Description>
+      <ParentCode>48220000</ParentCode>
+      <HasChildren>false</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>james.skilling@westsussex.gov.uk</ChangedByUser>
+      <DateChanged>2022-12-09T16:42:02Z</DateChanged>
+      <PublishedNoticeId>c161c49b-1e0a-460d-a6ea-603f10f9d877</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>34</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>6f247e8e-2db1-49dc-b759-4a541c22aaea</Id>
+  <Notice>
+    <Id>6f247e8e-2db1-49dc-b759-4a541c22aaea</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name xsi:nil="true" />
+      <Email>tin-chi.lee@nottinghamcity.gov.uk</Email>
+      <Address1>Loxley House,Station Street</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>NOTTINGHAM</Town>
+      <Postcode>NG23NG</Postcode>
+      <Country>England</Country>
+      <Phone xsi:nil="true" />
+      <WebAddress xsi:nil="true" />
+    </ContactDetails>
+    <Identifier>ESFA CFL 004</Identifier>
+    <Title>Community &amp; Family learning Service ESOL</Title>
+    <Description>In 2011, providers in receipt of an Adult Education Budget - Community Learning allocation will be expected to work in line with the ESFA policy objectives set out in the New Challenges New Chances (published in December 2011) page 13-14 relevant to Community Learning.
+    Purpose of Government Supported Community Learning:
+    • Maximise access to community learning for adults, bringing new opportunities and improving lives, whatever people&apos;s circumstances.
+    • Promote social renewal by bringing local communities together to experience the joy of learning and the pride that comes with achievement.
+    • Maximise the impact of community learning on the social and economic well-being of individuals, families and communities.
+    Objectives
+    • Focus public funding on people who are disadvantaged and least likely to participate, including in rural areas and people on low incomes with low skills
+    • Collect fee income from people who can afford to pay and use where possible to extend provision to those who cannot.
+    • Widen participation and transform people&apos;s destinies by supporting progression relevant to personal circumstances, e.g. improved confidence and willingness to engage in learning - acquisition of skills preparing people for training, employment or self-employment
+    - improved digital, financial literacy and/or communication skills
+    - Parents/carers better equipped to support and encourage their children&apos;s learning
+    - Improved/maintained health and/or social well-being.
+    • Develop stronger communities, with more self-sufficient, connected and pro-active citizens, leading to:
+    o increased volunteering, civic engagement and social integration
+    o reduced costs on welfare, health and anti-social behaviour
+    o increased online learning and self-organised learning
+    o the lives of our most troubled families being turned around
+    • Commission, deliver and support learning in ways that contribute directly to these objectives, including:
+    o bringing together people from backgrounds, cultures and income groups, including people who can/cannot afford to pay
+    o using effective local partnerships to bring together key providers and relevant local agencies and services
+    o devolving planning and accountability to neighbourhood/parish level, with local people involved in decisions about the learning offer involving volunteers and Voluntary and Community Sector groups, shifting long term, &apos;blocked&apos; classes into learning clubs, growing self-organised learning groups, and encouraging employers to support informal learning in the workplace
+    o supporting the wide use of online information and learning resources
+    o minimising overheads, bureaucracy &amp; administration
+    The Council&apos;s Community and Family Learning (CFL) has agreed to provide the grant of £35,000 (the &apos;Grant&apos;) to the Provider for the delivery of a minimum of 16 programmes to 120 learner numbers.
+    The Provider is willing to deliver the programmes to the learners in return for the Grant.</Description>
+    <CpvDescription>Provision of language courses</CpvDescription>
+    <PublishedDate>2023-02-02T12:03:31Z</PublishedDate>
+    <DeadlineDate>2022-10-10T12:00:00+01:00</DeadlineDate>
+    <ValueLow>35000</ValueLow>
+    <ValueHigh xsi:nil="true" />
+    <Postcode>NG2 3NG</Postcode>
+    <Region xsi:nil="true" />
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>52.931731</Lat>
+      <Lon>-1.132677</Lon>
+    </Location>
+    <Start>2023-01-01T00:00:00Z</Start>
+    <End>2023-07-31T00:00:00+01:00</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>80580000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>true</IsSuitableForSme>
+    <IsSuitableForVco>true</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2023-02-02T12:03:31Z</LastNotifiableUpdate>
+    <OrganisationName>Nottingham City Council</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType xsi:nil="true" />
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2023-01-27T15:52:00Z</CreatedDate>
+  <LastUpdatedDate>2023-02-02T12:03:31Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>333690</Id>
+      <NoticeId>6f247e8e-2db1-49dc-b759-4a541c22aaea</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>35000</Value>
+      <SupplierName>Belong</SupplierName>
+      <SupplierAddress>Belong Nottingham
+      Unit C
+      Tennyson Hall
+      Forest Road West
+      Nottingham
+      NG7 4EP</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>CHARITY_COMMISSION</ReferenceType>
+      <Reference>1160407</Reference>
+      <StartDate>2023-01-01T00:00:00Z</StartDate>
+      <EndDate>2023-07-31T00:00:00+01:00</EndDate>
+      <AwardedDate>2022-11-01T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>CompetitiveQuotationNonOJEU</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>true</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>d002713b-e429-4d06-aa58-cd7534395877</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>Nottingham City Council</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>6f247e8e-2db1-49dc-b759-4a541c22aaea</Id>
+      <NoticeId>6f247e8e-2db1-49dc-b759-4a541c22aaea</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>80580000</Code>
+      <Description>Provision of language courses</Description>
+      <ParentCode>80500000</ParentCode>
+      <HasChildren>false</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>tin-chi.lee@nottinghamcity.gov.uk</ChangedByUser>
+      <DateChanged>2023-02-02T12:03:31Z</DateChanged>
+      <PublishedNoticeId>6f247e8e-2db1-49dc-b759-4a541c22aaea</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>55</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>3ad1bdb2-3eb5-4051-98b3-ffb4b93d472d</Id>
+  <Notice>
+    <Id>3ad1bdb2-3eb5-4051-98b3-ffb4b93d472d</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name>Tin-Chi Lee</Name>
+      <Email>tin-chi.lee@nottinghamcity.gov.uk</Email>
+      <Address1>Loxley House,Station Street</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>NOTTINGHAM</Town>
+      <Postcode>NG23NG</Postcode>
+      <Country>England</Country>
+      <Phone xsi:nil="true" />
+      <WebAddress xsi:nil="true" />
+    </ContactDetails>
+    <Identifier>ESFA CFL 007</Identifier>
+    <Title>Community &amp; Family Learning Family English, Maths &amp; Language</Title>
+    <Description>In 2011, providers in receipt of an Adult Education Budget - Community Learning allocation will be expected to work in line with the ESFA policy objectives set out in the New Challenges New Chances (published in December 2011) page 13-14 relevant to Community Learning.
+    Purpose of Government Supported Community Learning:
+    • Maximise access to community learning for adults, bringing new opportunities and improving lives, whatever people&apos;s circumstances.
+    • Promote social renewal by bringing local communities together to experience the joy of learning and the pride that comes with achievement.
+    • Maximise the impact of community learning on the social and economic well-being of individuals, families and communities.
+    Objectives
+    • Focus public funding on people who are disadvantaged and least likely to participate, including in rural areas and people on low incomes with low skills
+    • Collect fee income from people who can afford to pay and use where possible to extend provision to those who cannot.
+    • Widen participation and transform people&apos;s destinies by supporting progression relevant to personal circumstances, e.g. improved confidence and willingness to engage in learning - acquisition of skills preparing people for training, employment or self-employment
+    - improved digital, financial literacy and/or communication skills
+    - Parents/carers better equipped to support and encourage their children&apos;s learning
+    - Improved/maintained health and/or social well-being.
+    • Develop stronger communities, with more self-sufficient, connected and pro-active citizens, leading to:
+    o increased volunteering, civic engagement and social integration
+    o reduced costs on welfare, health and anti-social behaviour
+    o increased online learning and self-organised learning
+    o the lives of our most troubled families being turned around
+    • Commission, deliver and support learning in ways that contribute directly to these objectives, including:
+    o bringing together people from backgrounds, cultures and income groups, including people who can/cannot afford to pay
+    o using effective local partnerships to bring together key providers and relevant local agencies and services
+    o devolving planning and accountability to neighbourhood/parish level, with local people involved in decisions about the learning offer involving volunteers and Voluntary and Community Sector groups, shifting long term, &apos;blocked&apos; classes into learning clubs, growing self-organised learning groups, and encouraging employers to support informal learning in the workplace
+    o supporting the wide use of online information and learning resources
+    o minimising overheads, bureaucracy &amp; administration
+    The Council&apos;s Community and Family Learning (CFL) has agreed to provide the grant of £45,000 (the &apos;Grant&apos;) to the Provider for the delivery of a minimum of 20 programmes to 110 learner numbers.
+    The Provider is willing to deliver the programmes to the learners in return for the Grant.</Description>
+    <CpvDescription>Vocational training services and Provision of language courses</CpvDescription>
+    <PublishedDate>2023-02-02T12:03:10Z</PublishedDate>
+    <DeadlineDate>2022-10-10T12:00:00+01:00</DeadlineDate>
+    <ValueLow>45000</ValueLow>
+    <ValueHigh xsi:nil="true" />
+    <Postcode>NG2 3NG</Postcode>
+    <Region xsi:nil="true" />
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>52.931731</Lat>
+      <Lon>-1.132677</Lon>
+    </Location>
+    <Start>2023-01-01T00:00:00Z</Start>
+    <End>2023-07-31T00:00:00+01:00</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>80530000</string>
+      <string>80580000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>false</IsSuitableForSme>
+    <IsSuitableForVco>false</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2023-02-02T12:03:10Z</LastNotifiableUpdate>
+    <OrganisationName>Nottingham City Council</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType xsi:nil="true" />
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2023-01-27T18:49:23Z</CreatedDate>
+  <LastUpdatedDate>2023-02-02T12:03:10Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>333724</Id>
+      <NoticeId>3ad1bdb2-3eb5-4051-98b3-ffb4b93d472d</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>45000</Value>
+      <SupplierName>Nottingham College</SupplierName>
+      <SupplierAddress>111 Canal Street
+      Nottingham
+      NG1 7HB</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>COMPANIES_HOUSE</ReferenceType>
+      <Reference>902625155</Reference>
+      <StartDate>2023-01-01T00:00:00Z</StartDate>
+      <EndDate>2023-07-31T00:00:00+01:00</EndDate>
+      <AwardedDate>2022-11-01T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>CompetitiveQuotationNonOJEU</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>false</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>3dbc17b4-f031-497b-a415-6ca86768728d</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>Nottingham City Council</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>3ad1bdb2-3eb5-4051-98b3-ffb4b93d472d</Id>
+      <NoticeId>3ad1bdb2-3eb5-4051-98b3-ffb4b93d472d</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>80530000</Code>
+      <Description>Vocational training services</Description>
+      <ParentCode>80500000</ParentCode>
+      <HasChildren>true</HasChildren>
+    </CpvCode>
+    <CpvCode>
+      <Code>80580000</Code>
+      <Description>Provision of language courses</Description>
+      <ParentCode>80500000</ParentCode>
+      <HasChildren>false</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>tin-chi.lee@nottinghamcity.gov.uk</ChangedByUser>
+      <DateChanged>2023-02-02T12:03:10Z</DateChanged>
+      <PublishedNoticeId>3ad1bdb2-3eb5-4051-98b3-ffb4b93d472d</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>49</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>fdab6bef-efd3-4dc2-825f-4f8caf91d9bb</Id>
+  <Notice>
+    <Id>fdab6bef-efd3-4dc2-825f-4f8caf91d9bb</Id>
+    <ParentIdentifier>tender_288989/1075288</ParentIdentifier>
+    <ContactDetails>
+      <Name xsi:nil="true" />
+      <Email>dgcconsultancy@defra.gov.uk</Email>
+      <Address1>17 Nobel House</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>London</Town>
+      <Postcode>SW1P 3JR</Postcode>
+      <Country>England</Country>
+      <Phone xsi:nil="true" />
+      <WebAddress xsi:nil="true" />
+    </ContactDetails>
+    <Identifier>tender_288989/1099004</Identifier>
+    <Title>Insurance Pilot Study</Title>
+    <Description>The Green Finance Team at Environment Agency have secured funding to carry out a pilot study titled &amp;apos;Monetising Insurance Benefits of Flood Alleviation Schemes&amp;apos; (the Study) to evaluate the insurance-related financial benefits of Flood Alleviation Schemes in England.
+    
+    The Environment Agency seeks to appoint a Consultant to carry out the Study.
+    
+    The Study will evaluate two flood schemes in England viz. Bridgwater Tidal Barrier and Banbury Flood Alleviation Scheme.</Description>
+    <CpvDescription>Financial and insurance services and Financial consultancy services</CpvDescription>
+    <PublishedDate>2022-12-15T09:25:24Z</PublishedDate>
+    <DeadlineDate>2022-07-01T12:00:00+01:00</DeadlineDate>
+    <ValueLow>250000</ValueLow>
+    <ValueHigh xsi:nil="true" />
+    <Postcode xsi:nil="true" />
+    <Region>Any region</Region>
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>0</Lat>
+      <Lon>0</Lon>
+    </Location>
+    <Start>2022-11-02T00:00:00Z</Start>
+    <End>2023-11-01T00:00:00Z</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>66000000</string>
+      <string>66171000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>true</IsSuitableForSme>
+    <IsSuitableForVco>false</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2022-12-16T14:15:33Z</LastNotifiableUpdate>
+    <OrganisationName>Defra Network eTendering Portal</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType>OpenOJEU</ProcedureType>
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>true</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-12-16T14:15:11Z</CreatedDate>
+  <LastUpdatedDate>2022-12-16T14:15:33Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>327295</Id>
+      <NoticeId>fdab6bef-efd3-4dc2-825f-4f8caf91d9bb</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>249572</Value>
+      <SupplierName>McKinsey &amp; Co Inc UK</SupplierName>
+      <SupplierAddress>London</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>NONE_OTHER</ReferenceType>
+      <Reference xsi:nil="true" />
+      <StartDate>2022-11-02T00:00:00Z</StartDate>
+      <EndDate>2023-11-01T00:00:00Z</EndDate>
+      <AwardedDate>2022-11-02T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>OpenOJEU</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>false</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>62bf8035-8dfe-431b-8daf-7149af948bec</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>Defra Network eTendering Portal</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>fdab6bef-efd3-4dc2-825f-4f8caf91d9bb</Id>
+      <NoticeId>fdab6bef-efd3-4dc2-825f-4f8caf91d9bb</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+    <AdditionalDetail>
+      <Id>8b3e808c-4b12-4b6a-b318-7119717b3571</Id>
+      <NoticeId>fdab6bef-efd3-4dc2-825f-4f8caf91d9bb</NoticeId>
+      <Description>PIN</Description>
+      <DataType>Link</DataType>
+      <Link>https://defra.bravosolution.co.uk/esop/toolkit/notice/showNationalData.do?noticeId=1008572#fh</Link>
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+    <AdditionalDetail>
+      <Id>90b17d1d-0707-4666-af04-389a88a17eaf</Id>
+      <NoticeId>fdab6bef-efd3-4dc2-825f-4f8caf91d9bb</NoticeId>
+      <Description>Opportunity</Description>
+      <DataType>Link</DataType>
+      <Link>https://defra.bravosolution.co.uk/esop/toolkit/notice/showNationalData.do?noticeId=1075288#fh</Link>
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+    <AdditionalDetail>
+      <Id>3bb8d485-176e-4867-8f09-d1dc23607e1a</Id>
+      <NoticeId>fdab6bef-efd3-4dc2-825f-4f8caf91d9bb</NoticeId>
+      <Description>n/a</Description>
+      <DataType>Attachment</DataType>
+      <Filename>McKinsey Co Conditions of Contract Endorsed_Redacted V2.0.pdf</Filename>
+      <MimeType>application/pdf</MimeType>
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>66000000</Code>
+      <Description>Financial and insurance services</Description>
+      <ParentCode>66000000</ParentCode>
+      <HasChildren>true</HasChildren>
+    </CpvCode>
+    <CpvCode>
+      <Code>66171000</Code>
+      <Description>Financial consultancy services</Description>
+      <ParentCode>66170000</ParentCode>
+      <HasChildren>false</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>i.dawson@bravosolution.com</ChangedByUser>
+      <DateChanged>2022-12-15T09:25:24Z</DateChanged>
+      <PublishedNoticeId>fdab6bef-efd3-4dc2-825f-4f8caf91d9bb</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>i.dawson@bravosolution.com</ChangedByUser>
+      <DateChanged>2022-12-16T14:15:33Z</DateChanged>
+      <PublishedNoticeId>fdab6bef-efd3-4dc2-825f-4f8caf91d9bb</PublishedNoticeId>
+      <VersionNumber>2</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>65</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>cc84b9dd-ebc4-4a1d-9e5d-48c3b5ccaaf5</Id>
+  <Notice>
+    <Id>cc84b9dd-ebc4-4a1d-9e5d-48c3b5ccaaf5</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name>Andrew Elliott</Name>
+      <Email>aelliott1@nhs.net</Email>
+      <Address1>Sackville House, Brooks Close</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>Lewes</Town>
+      <Postcode>BN7 2FZ</Postcode>
+      <Country>England</Country>
+      <Phone>07823533520</Phone>
+      <WebAddress>https://www.eastsussexccg.nhs.uk/</WebAddress>
+    </ContactDetails>
+    <Identifier>NHS/SOEPS/21.822 CAN</Identifier>
+    <Title>Hastings Primary Care Hub NHS/SOEPS/21.822 CAN</Title>
+    <Description>The NHS East Sussex Clinical Commissioning Group (&quot;CCG&quot;) are seeking bids from suitably qualified providers for the provision of a Primary Care Hub (PCH) service delivered from Hastings Station Plaza, led by Advanced Nurse Practitioners (ANP) and or appropriate Health Care Professionals and to include outreach and GP drop in clinic provision around Hastings and Rother.
+    
+    Contract start date = 01 August 2022
+    Contract end date = 31 July 2025 (plus Commissioner option for extension for 2 years until 31 July 2027)
+    
+    Key aims and Objectives
+    The CCG&apos;s aim is to deliver a robust, flexible and transformative model of care building on the Proof of Concept model currently being delivered from Hastings Station Plaza. The provider will work in partnership with local stakeholders and service providers to provide a new and innovative model of care. The model will support collaboration and partnership working with health, care and support services, reducing duplication, supporting seamless service delivery to key vulnerable groups and addressing health inequalities through the integrated delivery of the wider service offer available in Hastings and Rother for local people. 
+    
+    The service will primarily support the key vulnerable groups identified within the Equalities Health Impact Assessment (EHIA), Lone parents, Homeless and Rough Sleepers (including those in temporary accommodation), Veterans and Carers. 
+    
+    The service is offered for tender under a standard NHS contract for a period of 3 years commencing on the 1st August 2022 with option to extend for a maximum of a further two years. The total Financial Envelope for the maximum 5 year contract is £905,525 per annum, i.e. £4,527,625 in total. This figure includes £205,525 annual premises rent, which will be paid for by the CCG on a pass-through basis.
+    
+    The closing date for ITT responses is 5pm on  17 January 2022. Tender documents are available at https://in-tendhost.co.uk/soepscommissioning/aspx/Home .
+    
+    Please note: NHS England and Improvement have announced that the Sussex Health and Care Partnership, which is made up of all health and care organisations across East Sussex, West Sussex, and Brighton and Hove, has successfully met the criteria to become an Integrated Care System (ICS). An ICS is a way of working across health and care organisations that allows them to work closer together, to take collective responsibility of the health and wellbeing of populations across large areas.
+    It is not anticipated that the statutory responsibility or accountability of the individual health and care organisations working as an ICS will be affected, save for the expectation that CCG organisations will be abolished and functions transferred to the ICS. As a result of these intended healthcare reforms, the Contracting Authority, currently NHS East Sussex CCG, may change during the life of the contract.</Description>
+    <CpvDescription>Health and social work services</CpvDescription>
+    <PublishedDate>2022-11-24T17:20:19Z</PublishedDate>
+    <DeadlineDate>2022-01-17T17:00:00Z</DeadlineDate>
+    <ValueLow>4527625</ValueLow>
+    <ValueHigh xsi:nil="true" />
+    <Postcode xsi:nil="true" />
+    <Region>South East</Region>
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>0</Lat>
+      <Lon>0</Lon>
+    </Location>
+    <Start>2022-08-01T00:00:00+01:00</Start>
+    <End>2027-07-31T00:00:00+01:00</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>85000000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>true</IsSuitableForSme>
+    <IsSuitableForVco>true</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2022-11-24T17:20:19Z</LastNotifiableUpdate>
+    <OrganisationName>South of England Procurement Centre</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType>Other</ProcedureType>
+    <ProcedureTypeOther>Open FTS (Healthcare)</ProcedureTypeOther>
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-11-24T17:12:19Z</CreatedDate>
+  <LastUpdatedDate>2022-11-24T17:20:19Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>323454</Id>
+      <NoticeId>cc84b9dd-ebc4-4a1d-9e5d-48c3b5ccaaf5</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>4527625</Value>
+      <SupplierName>Integrated Care 24</SupplierName>
+      <SupplierAddress>Integrated Care 24
+      Kingston House, 
+      The Long Barrow, 
+      Ashford, 
+      Kent, 
+      TN24 0GP</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>COMPANIES_HOUSE</ReferenceType>
+      <Reference>3193182</Reference>
+      <StartDate>2022-12-01T00:00:00Z</StartDate>
+      <EndDate>2027-11-30T00:00:00Z</EndDate>
+      <AwardedDate>2022-11-04T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>Other</AwardedProcedureType>
+      <AwardedProcedureTypeOther>Open FTS (Healthcare)</AwardedProcedureTypeOther>
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>false</AwardedToSME>
+      <AwardedToVCSO>true</AwardedToVCSO>
+      <AwardGuid>3ccc361e-5659-4022-83c0-d6237701cb9f</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>South of England Procurement Centre</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>cc84b9dd-ebc4-4a1d-9e5d-48c3b5ccaaf5</Id>
+      <NoticeId>cc84b9dd-ebc4-4a1d-9e5d-48c3b5ccaaf5</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData>The service will offer the following:
+      
+      1.	Different operating times for drop-in services based on evidence of activity.
+      2.	Advanced Nurse Practitioners (ANPs) and appropriate Health Care Professionals led service working within an in-reach and out-reach capacity and with regular, scheduled and documented clinical supervision and GP oversight, which would be best delivered through the Primary Care Network (PCN), to facilitate an aligned and collaborative patient service. 
+      3.	GP Drop in Clinics operating a minimum of eight hours a week over 2 or more sessions for patients who need treatment for acute illnesses, general health checks and support to seek medical attention when needed.
+      4.	Advising and supporting patients who present without booked appointments on how to access other, more appropriate primary care services based on their need, either via NHS 111 CAS or their own registered GP; if required, people will be seen by a health professional when they present.
+      5.	Provision of information and support to people who use drop-in facilities to improve their knowledge of the co-ordinated range of services that are available to them. Where appropriate the service will work with the patient&apos;s registered practice and/or the appropriate service to coordinate this support.  
+      6.	Offer a multi-disciplinary approach to the care of unregistered and vulnerable patients.
+      7.	Development of new care pathways focused on wellness, signposting, care navigation and multi-agency delivery. There will be a strong focus on integration with other providers including voluntary and community sector providers to help secure future shift from treatment to health promotion and prevention of ill-health for local people.
+      
+      The service will do this by: 
+      •	Providing medical interventions
+      •	Providing case management and care coordination 
+      •	Providing medical and risk management
+      •	Proactively engaging with service users and providing personalised care
+      •	Working in an integrated, flexible and responsive way with other services in Hastings and Rother
+      •	Listening, learning and responding to local needs
+      •	Sharing learning, knowledge and service development with other services in Hastings and Rother
+      In addition, the service will provide:
+      •	access to Primary Care services
+      •	capacity for pre-bookable and same day appointments
+      •	directly bookable appointments via Sussex NHS 111/CAS and UTCs
+      •	patients directed to the correct service at the point of access thus encouraging an appropriate use of services
+      •	referral where appropriate to Secondary Care services including two-week-waits
+      •	effective communication of interventions and outcomes to core in-hours providers and the local urgent care system</TextData>
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+    <AdditionalDetail>
+      <Id>706fd58d-ea49-42a3-b406-72b3631d05ca</Id>
+      <NoticeId>cc84b9dd-ebc4-4a1d-9e5d-48c3b5ccaaf5</NoticeId>
+      <Description>e-tendering portal</Description>
+      <DataType>Link</DataType>
+      <Link>https://in-tendhost.co.uk/soepscommissioning/aspx/Home</Link>
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>85000000</Code>
+      <Description>Health and social work services</Description>
+      <ParentCode>85000000</ParentCode>
+      <HasChildren>true</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>Andrew.elliott@soeprocurement.nhs.uk</ChangedByUser>
+      <DateChanged>2022-11-24T17:20:19Z</DateChanged>
+      <PublishedNoticeId>cc84b9dd-ebc4-4a1d-9e5d-48c3b5ccaaf5</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>97</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>56cf0684-e983-4a24-87d9-0062e08158c8</Id>
+  <Notice>
+    <Id>56cf0684-e983-4a24-87d9-0062e08158c8</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name xsi:nil="true" />
+      <Email>commercial.inbox@cps.gov.uk</Email>
+      <Address1>102 Petty France</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>London</Town>
+      <Postcode>SW1H 9EA</Postcode>
+      <Country>England</Country>
+      <Phone>0</Phone>
+      <WebAddress xsi:nil="true" />
+    </ContactDetails>
+    <Identifier>tender_339670/1150076</Identifier>
+    <Title>SPSS</Title>
+    <Description>For the provision of a financial reporting tool</Description>
+    <CpvDescription>Software package and information systems</CpvDescription>
+    <PublishedDate>2022-11-24T15:52:30Z</PublishedDate>
+    <DeadlineDate>2022-10-25T00:00:00+01:00</DeadlineDate>
+    <ValueLow>41383</ValueLow>
+    <ValueHigh xsi:nil="true" />
+    <Postcode xsi:nil="true" />
+    <Region>Any region</Region>
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>0</Lat>
+      <Lon>0</Lon>
+    </Location>
+    <Start>2022-11-01T00:00:00Z</Start>
+    <End>2025-11-01T00:00:00Z</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>48000000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>false</IsSuitableForSme>
+    <IsSuitableForVco>false</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2022-11-24T15:52:30Z</LastNotifiableUpdate>
+    <OrganisationName>CPS</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType>SingleTenderActionNonOJEU</ProcedureType>
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Products</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-11-24T15:52:20Z</CreatedDate>
+  <LastUpdatedDate>2022-11-24T15:52:30Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>323421</Id>
+      <NoticeId>56cf0684-e983-4a24-87d9-0062e08158c8</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>41383</Value>
+      <SupplierName>SV Europe</SupplierName>
+      <SupplierAddress>-</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>NONE_OTHER</ReferenceType>
+      <Reference xsi:nil="true" />
+      <StartDate>2022-11-01T00:00:00Z</StartDate>
+      <EndDate>2025-11-01T00:00:00Z</EndDate>
+      <AwardedDate>2022-11-01T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>SingleTenderActionNonOJEU</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>false</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>b73cce1a-cb5a-4753-bd2a-f97035dfc6f0</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>CPS</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>56cf0684-e983-4a24-87d9-0062e08158c8</Id>
+      <NoticeId>56cf0684-e983-4a24-87d9-0062e08158c8</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+    <AdditionalDetail>
+      <Id>6c95e9b4-09d3-49d1-b711-77deafe333a7</Id>
+      <NoticeId>56cf0684-e983-4a24-87d9-0062e08158c8</NoticeId>
+      <Description>n/a</Description>
+      <DataType>Attachment</DataType>
+      <Filename>redacted.pdf</Filename>
+      <MimeType>application/pdf</MimeType>
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>48000000</Code>
+      <Description>Software package and information systems</Description>
+      <ParentCode>48000000</ParentCode>
+      <HasChildren>true</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>i.dawson@bravosolution.com</ChangedByUser>
+      <DateChanged>2022-11-24T15:52:30Z</DateChanged>
+      <PublishedNoticeId>56cf0684-e983-4a24-87d9-0062e08158c8</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>38</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>2f86c1b7-a467-454b-938f-2cd2c44265ad</Id>
+  <Notice>
+    <Id>2f86c1b7-a467-454b-938f-2cd2c44265ad</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name xsi:nil="true" />
+      <Email>procurement@derby.gov.uk</Email>
+      <Address1>Corporation Street</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>Derby</Town>
+      <Postcode>DE12FS</Postcode>
+      <Country>England</Country>
+      <Phone>01332 64320768</Phone>
+      <WebAddress xsi:nil="true" />
+    </ContactDetails>
+    <Identifier>TD1943</Identifier>
+    <Title>TD1943 - Mobility Programme -  Programme Manager (AO)</Title>
+    <Description>Mobility Programme -  Programme Manager (AO)
+    Procured via VEAT Notice - 2022/S 000-031559
+    Initial Term - 01/11/2022 -31/05/2023
+    Option to Extend - Until 31/05/2024
+    Value based on full term including extensions - Extension is subject to business need, financial approval and amended contract.</Description>
+    <CpvDescription>Research and development services and related consultancy services</CpvDescription>
+    <PublishedDate>2022-11-21T10:36:12Z</PublishedDate>
+    <DeadlineDate>2022-10-31T12:00:00Z</DeadlineDate>
+    <ValueLow>267330</ValueLow>
+    <ValueHigh xsi:nil="true" />
+    <Postcode xsi:nil="true" />
+    <Region>East Midlands</Region>
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>0</Lat>
+      <Lon>0</Lon>
+    </Location>
+    <Start>2022-11-01T00:00:00Z</Start>
+    <End>2024-05-31T00:00:00+01:00</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>73000000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>true</IsSuitableForSme>
+    <IsSuitableForVco>false</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2022-11-21T10:36:12Z</LastNotifiableUpdate>
+    <OrganisationName>Derby City Council</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType xsi:nil="true" />
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-11-21T10:33:29Z</CreatedDate>
+  <LastUpdatedDate>2022-11-21T10:36:12Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>322374</Id>
+      <NoticeId>2f86c1b7-a467-454b-938f-2cd2c44265ad</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>267330</Value>
+      <SupplierName>G2 RECRUITMENT SOLUTIONS LIMITED</SupplierName>
+      <SupplierAddress>2nd Floor 100 Gray&apos;s Inn Road 2nd Floor, 100 Gray&apos;s Inn Road, London, England, WC1X 8AL</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>COMPANIES_HOUSE</ReferenceType>
+      <Reference>04940199</Reference>
+      <StartDate>2022-11-01T00:00:00Z</StartDate>
+      <EndDate>2024-05-31T00:00:00+01:00</EndDate>
+      <AwardedDate>2022-10-31T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>NegotiatedProcedureWithoutPriorPublicationOJEU</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>false</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>fee81d42-ef4e-4bb4-800d-420926cd6255</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>Derby City Council</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>2f86c1b7-a467-454b-938f-2cd2c44265ad</Id>
+      <NoticeId>2f86c1b7-a467-454b-938f-2cd2c44265ad</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>73000000</Code>
+      <Description>Research and development services and related consultancy services</Description>
+      <ParentCode>73000000</ParentCode>
+      <HasChildren>true</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>deanna.hind@derby.gov.uk</ChangedByUser>
+      <DateChanged>2022-11-21T10:36:12Z</DateChanged>
+      <PublishedNoticeId>2f86c1b7-a467-454b-938f-2cd2c44265ad</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>33</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>fd636fdc-c802-4b07-8744-3b78ce1a9c18</Id>
+  <Notice>
+    <Id>fd636fdc-c802-4b07-8744-3b78ce1a9c18</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name>Will Woods</Name>
+      <Email>willwoods@oca.ac.uk</Email>
+      <Address1>Open College of the Arts, Unit 1B</Address1>
+      <Address2>The Michael Young Arts Centre, Room 201, DMC 02</Address2>
+      <Town>Barnsley</Town>
+      <Postcode>S75 2AG</Postcode>
+      <Country>United Kingdom</Country>
+      <Phone>01226596950</Phone>
+      <WebAddress>www.oca.ac.uk</WebAddress>
+    </ContactDetails>
+    <Identifier>11085</Identifier>
+    <Title>HR and Payroll Services</Title>
+    <Description>The College employs approximately 135 staff covering 170 roles on a single HR and payroll service managed through the parent organisation (University for the Creative Arts, UCA). The College is currently divesting from the University and will be acquired by the Open University from 2023. The payroll bureau service through UCA must end prior to 31 July 2023. The College shall engage with one key supplier who would manage the provision of all areas of the solution. The system should  be a fully integrated and managed HR and Payroll system with an established, reliable interface and services that cater for small Higher Education providers. A selection of suppliers were selected and invited to quote for the service based on the requirements of the College. To seek Value for Money (VfM) the College has checked to ensure that the financial regulations were used as a reference for procurement in addition to advice and guidance provided by the UCA Head of Procurement. Quotations for services have been obtained from a selection of companies.</Description>
+    <CpvDescription>Education and training services</CpvDescription>
+    <PublishedDate>2022-11-17T11:52:31Z</PublishedDate>
+    <DeadlineDate>2022-10-07T17:00:00+01:00</DeadlineDate>
+    <ValueLow>145613.67</ValueLow>
+    <ValueHigh xsi:nil="true" />
+    <Postcode>S75 2AG</Postcode>
+    <Region xsi:nil="true" />
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>53.553291</Lat>
+      <Lon>-1.546944</Lon>
+    </Location>
+    <Start>2022-10-31T00:00:00Z</Start>
+    <End>2027-10-31T00:00:00+01:00</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>80000000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>true</IsSuitableForSme>
+    <IsSuitableForVco>true</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2022-11-17T11:52:31Z</LastNotifiableUpdate>
+    <OrganisationName>OPEN COLLEGE OF THE ARTS</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType xsi:nil="true" />
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-11-17T11:27:52Z</CreatedDate>
+  <LastUpdatedDate>2022-11-17T11:52:31Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>321902</Id>
+      <NoticeId>fd636fdc-c802-4b07-8744-3b78ce1a9c18</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>145613.67</Value>
+      <SupplierName>MHR INTERNATIONAL UK LIMITED</SupplierName>
+      <SupplierAddress>Ruddington Hall,Loughborough Road, Ruddington
+      NOTTINGHAM
+      NOTTINGHAMSHIRE
+      NG11 6LL
+      GB</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>COMPANIES_HOUSE</ReferenceType>
+      <Reference>01852206</Reference>
+      <StartDate>2022-10-31T00:00:00Z</StartDate>
+      <EndDate>2027-10-31T00:00:00+01:00</EndDate>
+      <AwardedDate>2022-11-04T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>RestrictedOJEU</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>false</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>7e517512-1a9b-4124-bccc-6b887854f03f</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>OPEN COLLEGE OF THE ARTS</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>fd636fdc-c802-4b07-8744-3b78ce1a9c18</Id>
+      <NoticeId>fd636fdc-c802-4b07-8744-3b78ce1a9c18</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>80000000</Code>
+      <Description>Education and training services</Description>
+      <ParentCode>80000000</ParentCode>
+      <HasChildren>true</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>willwoods@oca.ac.uk</ChangedByUser>
+      <DateChanged>2022-11-17T11:52:31Z</DateChanged>
+      <PublishedNoticeId>fd636fdc-c802-4b07-8744-3b78ce1a9c18</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>52</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>9c26a057-38e3-4a7c-b7ea-16285c79944b</Id>
+  <Notice>
+    <Id>9c26a057-38e3-4a7c-b7ea-16285c79944b</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name>Ingrida Kyguolyte</Name>
+      <Email>Ingrida.Kyguolyte@fcdo.gov.uk</Email>
+      <Address1>King Charles Street</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>London</Town>
+      <Postcode>SW1A 2AH</Postcode>
+      <Country>England</Country>
+      <Phone xsi:nil="true" />
+      <WebAddress>www.gov.uk/fcdo</WebAddress>
+    </ContactDetails>
+    <Identifier>tender_317493/1146123</Identifier>
+    <Title>Healthcare Market Landscape Study Bahrain - Awarded</Title>
+    <Description>Bahrain&amp;apos;s Economic Development Board, a government investment promotion agency, has approached the British Embassy (BE) in Bahrain to support them in undertaking a healthcare market study to expand the existing value proposition in the healthcare sector. This will assess current public and private provision through a report to identify market gaps, future demand, patient and sector requirements, the need for specialist facilities. The report will also provide recommendations for new hospital projects including size, specialisms, geographic suitability, segmentation, patient demographics, regional demand, suitability for international partnerships, required investment and potential costs. This study should also include a financial modelling sub-section related to UK companies, as a way of facilitating future value propositions. The Implementer will conduct a study visit to Bahrain for up to 2 weeks, followed by extensive research to produce a market study report that provides an evaluation of the current private healthcare provision, market gaps, and new areas for the development of new hospitals, as well as an assessment and recommendations on healthcare growth requirements e.g. to boost healthcare tourism, provide specialisations, etc.</Description>
+    <CpvDescription>Research services</CpvDescription>
+    <PublishedDate>2022-11-16T09:34:26Z</PublishedDate>
+    <DeadlineDate>2022-10-16T19:00:00+01:00</DeadlineDate>
+    <ValueLow>88660</ValueLow>
+    <ValueHigh xsi:nil="true" />
+    <Postcode xsi:nil="true" />
+    <Region>Any region</Region>
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>0</Lat>
+      <Lon>0</Lon>
+    </Location>
+    <Start>2022-11-04T00:00:00Z</Start>
+    <End>2023-03-16T00:00:00Z</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>73110000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>true</IsSuitableForSme>
+    <IsSuitableForVco>false</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2022-11-16T09:34:26Z</LastNotifiableUpdate>
+    <OrganisationName>Foreign Commonwealth and Development Office</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType>OpenNonOJEU</ProcedureType>
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-11-16T09:34:19Z</CreatedDate>
+  <LastUpdatedDate>2022-11-16T09:34:26Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>321562</Id>
+      <NoticeId>9c26a057-38e3-4a7c-b7ea-16285c79944b</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>88660</Value>
+      <SupplierName>Enera Consulting UK LTD</SupplierName>
+      <SupplierAddress>239-241 Kennington Lane, London , Greater London, SE11 5QU, UNITED KINGDOM</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>NONE_OTHER</ReferenceType>
+      <Reference xsi:nil="true" />
+      <StartDate>2022-11-04T00:00:00Z</StartDate>
+      <EndDate>2023-03-16T00:00:00Z</EndDate>
+      <AwardedDate>2022-11-04T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>OpenNonOJEU</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>false</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>053a8f57-99ca-45a9-830e-a460eb8adfd8</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>Foreign Commonwealth and Development Office</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>9c26a057-38e3-4a7c-b7ea-16285c79944b</Id>
+      <NoticeId>9c26a057-38e3-4a7c-b7ea-16285c79944b</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>73110000</Code>
+      <Description>Research services</Description>
+      <ParentCode>73100000</ParentCode>
+      <HasChildren>true</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>i.dawson@bravosolution.com</ChangedByUser>
+      <DateChanged>2022-11-16T09:34:26Z</DateChanged>
+      <PublishedNoticeId>9c26a057-38e3-4a7c-b7ea-16285c79944b</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>84</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>d37f6406-39b3-4366-a64c-d7eaa69770e6</Id>
+  <Notice>
+    <Id>d37f6406-39b3-4366-a64c-d7eaa69770e6</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name>Sarah Hadland</Name>
+      <Email>shadland@royalparks.org.uk</Email>
+      <Address1>The Old Police House, Hyde Park</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>London</Town>
+      <Postcode>W2 2UH</Postcode>
+      <Country>England</Country>
+      <Phone xsi:nil="true" />
+      <WebAddress xsi:nil="true" />
+    </ContactDetails>
+    <Identifier>None</Identifier>
+    <Title>Catering Consultancy Contract</Title>
+    <Description>The Royal Parks (&quot;TRP&quot;) publishes this notice to record its intention to put in place a one-year contract for provision of catering consultancy services from 1st July 2023 to 30 June 2024 while a longer-term procurement strategy is developed for delivery of the following services:
+    
+    - Annual financial audits of concessions.
+    - Mystery diner audits of concessions.
+    - Advice, project support to and evaluation of catering tenders.
+    - Project support for investment options.
+    - Development of catering strategies.
+    - Benchmarking and improvement.
+    
+    The direct award of contract is required in order to ensure support for forthcoming catering tenders and to allow sufficient time for TRP to prepare a new, longer-term procurement. 
+    
+    It is intended to run a procurement exercise for a new catering consultancy contract for 2024 onwards, with the associated Invitation to Tender to be issued in 2023 and published on Find a Tender Service and Contracts Finder.</Description>
+    <CpvDescription>Restaurant and food-serving services and Beverage-serving services and Business and management consultancy services</CpvDescription>
+    <PublishedDate>2022-11-02T17:29:26Z</PublishedDate>
+    <DeadlineDate>2022-11-02T17:00:00Z</DeadlineDate>
+    <ValueLow>60000</ValueLow>
+    <ValueHigh xsi:nil="true" />
+    <Postcode xsi:nil="true" />
+    <Region>London</Region>
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>0</Lat>
+      <Lon>0</Lon>
+    </Location>
+    <Start>2023-07-01T00:00:00+01:00</Start>
+    <End>2024-06-30T00:00:00+01:00</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>55300000</string>
+      <string>55400000</string>
+      <string>79410000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>true</IsSuitableForSme>
+    <IsSuitableForVco>false</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2022-11-02T17:29:26Z</LastNotifiableUpdate>
+    <OrganisationName>The Royal Parks</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType xsi:nil="true" />
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-11-02T09:39:16Z</CreatedDate>
+  <LastUpdatedDate>2022-11-02T17:29:26Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>318826</Id>
+      <NoticeId>d37f6406-39b3-4366-a64c-d7eaa69770e6</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>60000</Value>
+      <SupplierName>Food Services Associates (Henley) Ltd T/A Boyd Thorpe Associates</SupplierName>
+      <SupplierAddress>PO Box 48
+      Henley-on-Thames
+      Oxfordshire
+      RG9 3YX</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>COMPANIES_HOUSE</ReferenceType>
+      <Reference>02384818</Reference>
+      <StartDate>2023-07-01T00:00:00+01:00</StartDate>
+      <EndDate>2024-06-30T00:00:00+01:00</EndDate>
+      <AwardedDate>2022-11-02T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>SingleTenderActionNonOJEU</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>true</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>36046cab-b742-4741-90a6-8178d398baa1</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>The Royal Parks</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>d37f6406-39b3-4366-a64c-d7eaa69770e6</Id>
+      <NoticeId>d37f6406-39b3-4366-a64c-d7eaa69770e6</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>55300000</Code>
+      <Description>Restaurant and food-serving services</Description>
+      <ParentCode>55000000</ParentCode>
+      <HasChildren>true</HasChildren>
+    </CpvCode>
+    <CpvCode>
+      <Code>55400000</Code>
+      <Description>Beverage-serving services</Description>
+      <ParentCode>55000000</ParentCode>
+      <HasChildren>true</HasChildren>
+    </CpvCode>
+    <CpvCode>
+      <Code>79410000</Code>
+      <Description>Business and management consultancy services</Description>
+      <ParentCode>79400000</ParentCode>
+      <HasChildren>true</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>shadland@royalparks.org.uk</ChangedByUser>
+      <DateChanged>2022-11-02T17:29:26Z</DateChanged>
+      <PublishedNoticeId>d37f6406-39b3-4366-a64c-d7eaa69770e6</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>55</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>2831f68b-fb50-4891-bb72-9674062757b4</Id>
+  <Notice>
+    <Id>2831f68b-fb50-4891-bb72-9674062757b4</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name>Jacky Perkins</Name>
+      <Email>procurement@wmfs.net</Email>
+      <Address1>99 Vauxhall Road, Nechells</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>Birmingham</Town>
+      <Postcode>B7 4HW</Postcode>
+      <Country>ENG</Country>
+      <Phone>+44 1213806176</Phone>
+      <WebAddress>www.wmfs.net</WebAddress>
+    </ContactDetails>
+    <Identifier>20221101172327-34952</Identifier>
+    <Title>Oracle Fusion - Phase 2 Business Transformation</Title>
+    <Description>Following the implementation of Oracle Cloud, the Authority is committed to building a fully integrated Enterprise Resource Planning (ERP) solution. To further this commitment, it will need to continually work across programmes of Business Transformation. These programmes would leverage the most value from Oracle Cloud technology with the express aim of improving user experience enhancing business value offset and measured against the financial investment.   
+    
+    The deliverables would include areas such as final implementation of Learning Cloud and Health &amp; Safety Modules and adoption of new modules including Digital Assistant and Guided Learning, Strategic Workforce Planning, Business Process Change, Business Transformation Consultancy and Oracle Enterprise Performance Management.  
+    The contract has been awarded through G-Cloud 12.</Description>
+    <CpvDescription>Software consultancy services</CpvDescription>
+    <PublishedDate>2022-11-01T17:23:31Z</PublishedDate>
+    <DeadlineDate>2022-11-01T17:16:21Z</DeadlineDate>
+    <ValueLow>0</ValueLow>
+    <ValueHigh>292500</ValueHigh>
+    <Postcode>B7 4HW</Postcode>
+    <Region>Any region</Region>
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>52.494562</Lat>
+      <Lon>-1.864605</Lon>
+    </Location>
+    <Start>2022-11-11T00:00:00Z</Start>
+    <End>2024-03-31T00:00:00Z</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>72266000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>true</IsSuitableForSme>
+    <IsSuitableForVco>true</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2022-11-01T17:23:31Z</LastNotifiableUpdate>
+    <OrganisationName>West Midlands Fire and Rescue Authority</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType>Other</ProcedureType>
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-11-01T17:23:29Z</CreatedDate>
+  <LastUpdatedDate>2022-11-01T17:23:31Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>318776</Id>
+      <NoticeId>2831f68b-fb50-4891-bb72-9674062757b4</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>292500</Value>
+      <SupplierName>Namos Solutions Ltd</SupplierName>
+      <SupplierAddress>2 London Wall Place
+      London
+      EC2Y 5AU</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>NONE</ReferenceType>
+      <Reference xsi:nil="true" />
+      <StartDate>2022-11-11T00:00:00Z</StartDate>
+      <EndDate>2024-03-31T00:00:00Z</EndDate>
+      <AwardedDate>2022-11-01T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>Other</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>false</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>eabf2321-a2c5-4897-a0e9-79491bc157b2</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>West Midlands Fire and Rescue Authority</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>2831f68b-fb50-4891-bb72-9674062757b4</Id>
+      <NoticeId>2831f68b-fb50-4891-bb72-9674062757b4</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>72266000</Code>
+      <Description>Software consultancy services</Description>
+      <ParentCode>72260000</ParentCode>
+      <HasChildren>false</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>info@eu-supply.com</ChangedByUser>
+      <DateChanged>2022-11-01T17:23:31Z</DateChanged>
+      <PublishedNoticeId>2831f68b-fb50-4891-bb72-9674062757b4</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>49</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>cd242dc5-2034-445a-b351-6fa4b2ded2b4</Id>
+  <Notice>
+    <Id>cd242dc5-2034-445a-b351-6fa4b2ded2b4</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name>Maria Stoneley</Name>
+      <Email>maria.stoneley@leeds.gov.uk</Email>
+      <Address1>Civic Hall, 3rd Floor West,</Address1>
+      <Address2 xsi:nil="true" />
+      <Town>Leeds</Town>
+      <Postcode>LS1 1UR</Postcode>
+      <Country>ENG</Country>
+      <Phone>+44 01135350945</Phone>
+      <WebAddress>https://www.leeds.gov.uk/</WebAddress>
+    </ContactDetails>
+    <Identifier>20221031160344-104105</Identifier>
+    <Title>TREASURY MANAGEMENT SERVICES</Title>
+    <Description>Treasury Management Consultants services to the Chief Officer Financial Services, covering the following broad areas:   Review of the Debt Portfolio  PWLB Rate Advice  Treasury Strategy  Legal and Regulatory Regimes  Economic Forecasts  Credit Worthiness  Investment and External Fund Management  Leasing and Credit Arrangement Advice   Training and seminars</Description>
+    <CpvDescription>Financial consultancy services</CpvDescription>
+    <PublishedDate>2022-10-31T16:03:50Z</PublishedDate>
+    <DeadlineDate>2022-10-14T12:00:00+01:00</DeadlineDate>
+    <ValueLow>0</ValueLow>
+    <ValueHigh>102250</ValueHigh>
+    <Postcode xsi:nil="true" />
+    <Region>Yorkshire and The Humber</Region>
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>0</Lat>
+      <Lon>0</Lon>
+    </Location>
+    <Start>2022-11-01T00:00:00Z</Start>
+    <End>2025-10-31T00:00:00Z</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>66171000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>false</IsSuitableForSme>
+    <IsSuitableForVco>false</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2022-10-31T16:03:50Z</LastNotifiableUpdate>
+    <OrganisationName>Leeds City Council</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType>Open</ProcedureType>
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-10-31T16:03:47Z</CreatedDate>
+  <LastUpdatedDate>2022-10-31T16:03:50Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>318514</Id>
+      <NoticeId>cd242dc5-2034-445a-b351-6fa4b2ded2b4</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>102250</Value>
+      <SupplierName>Link Treasury Services Ltd</SupplierName>
+      <SupplierAddress>6th Floor, 65 Gresham Street, London
+      EC2V 7NQ</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>NONE</ReferenceType>
+      <Reference xsi:nil="true" />
+      <StartDate>2022-11-01T00:00:00Z</StartDate>
+      <EndDate>2025-10-31T00:00:00Z</EndDate>
+      <AwardedDate>2022-10-31T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>Open</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>false</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>0f36ae6b-3a2d-4753-99bc-9fd380f047ec</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>Leeds City Council</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>cd242dc5-2034-445a-b351-6fa4b2ded2b4</Id>
+      <NoticeId>cd242dc5-2034-445a-b351-6fa4b2ded2b4</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+    <AdditionalDetail>
+      <Id>8b039c5f-72fa-44bc-a0fd-592959d7831b</Id>
+      <NoticeId>cd242dc5-2034-445a-b351-6fa4b2ded2b4</NoticeId>
+      <Description>Additional data</Description>
+      <DataType>Link</DataType>
+      <Link>https://uk.eu-supply.com/app/rfq/rwlentrance_s.asp?PID=53050&amp;B=UK</Link>
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+    <AdditionalDetail>
+      <Id>476bf453-e7e7-4efa-9c79-d4f14f5c594f</Id>
+      <NoticeId>cd242dc5-2034-445a-b351-6fa4b2ded2b4</NoticeId>
+      <Description>User / Company</Description>
+      <DataType>Link</DataType>
+      <Link>https://uk.eu-supply.com/ctm/Company/CompanyInformation/Index/104105</Link>
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>66171000</Code>
+      <Description>Financial consultancy services</Description>
+      <ParentCode>66170000</ParentCode>
+      <HasChildren>false</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>info@eu-supply.com</ChangedByUser>
+      <DateChanged>2022-10-31T16:03:51Z</DateChanged>
+      <PublishedNoticeId>cd242dc5-2034-445a-b351-6fa4b2ded2b4</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>46</NumberOfViews>
+</FullNotice>
+<FullNotice>
+  <Id>9127b55b-4e75-476b-8d18-6d8b1922681d</Id>
+  <Notice>
+    <Id>9127b55b-4e75-476b-8d18-6d8b1922681d</Id>
+    <ParentIdentifier xsi:nil="true" />
+    <ContactDetails>
+      <Name>Rifhat Pervaiz</Name>
+      <Email>rifhat.pervaiz@nottinghamcity.gov.uk</Email>
+      <Address1>Loxley House</Address1>
+      <Address2>Station Street</Address2>
+      <Town>Nottingham</Town>
+      <Postcode>NG2 3NG</Postcode>
+      <Country>England</Country>
+      <Phone>+44 1168761855</Phone>
+      <WebAddress>http://www.nottinghamcity.gov.uk</WebAddress>
+    </ContactDetails>
+    <Identifier>NOTTCITY001-DN640537-49976247</Identifier>
+    <Title>CPU 5925 Interim workers - agency staff</Title>
+    <Description>5 professional working days per week for the duration of the contract. To deliver professional  financial management, accounting advice, job description and agreed objectives for the service.</Description>
+    <CpvDescription>Business services: law, marketing, consulting, recruitment, printing and security and Miscellaneous business and business-related services</CpvDescription>
+    <PublishedDate>2022-10-31T14:55:30Z</PublishedDate>
+    <DeadlineDate>2022-10-26T23:59:00+01:00</DeadlineDate>
+    <ValueLow>500175</ValueLow>
+    <ValueHigh>500175</ValueHigh>
+    <Postcode xsi:nil="true" />
+    <Region>England</Region>
+    <Nationwide>false</Nationwide>
+    <Location>
+      <Lat>0</Lat>
+      <Lon>0</Lon>
+    </Location>
+    <Start>2022-12-05T00:00:00Z</Start>
+    <End>2023-06-02T00:00:00+01:00</End>
+    <Type>Contract</Type>
+    <CpvCodes>
+      <string>79000000</string>
+      <string>79900000</string>
+    </CpvCodes>
+    <Status>Awarded</Status>
+    <IsSuitableForSme>true</IsSuitableForSme>
+    <IsSuitableForVco>true</IsSuitableForVco>
+    <SupplyChain>false</SupplyChain>
+    <LastNotifiableUpdate>2022-10-31T14:55:30Z</LastNotifiableUpdate>
+    <OrganisationName>Nottingham City Council</OrganisationName>
+    <Sector xsi:nil="true" />
+    <ProcedureType>Open</ProcedureType>
+    <ProcedureTypeOther xsi:nil="true" />
+    <ProcedureAcceleratedJustification xsi:nil="true" />
+    <OjeuContractType>Services</OjeuContractType>
+    <IsFrameworkAgreement>false</IsFrameworkAgreement>
+    <IsExtensionPossible>false</IsExtensionPossible>
+  </Notice>
+  <CreatedDate>2022-10-31T14:55:28Z</CreatedDate>
+  <LastUpdatedDate>2022-10-31T14:55:30Z</LastUpdatedDate>
+  <Awards>
+    <AwardDetail>
+      <Id>318482</Id>
+      <NoticeId>9127b55b-4e75-476b-8d18-6d8b1922681d</NoticeId>
+      <ParentId xsi:nil="true" />
+      <Value>500175</Value>
+      <SupplierName>Macildowie Associates Ltd</SupplierName>
+      <SupplierAddress>6th Floor, Water Front House, 35 Station St, Nottingham NG2 3DQ</SupplierAddress>
+      <Contact xsi:nil="true" />
+      <ReferenceType>NONE</ReferenceType>
+      <Reference xsi:nil="true" />
+      <StartDate>2022-12-05T00:00:00Z</StartDate>
+      <EndDate>2023-06-02T00:00:00+01:00</EndDate>
+      <AwardedDate>2022-10-31T00:00:00Z</AwardedDate>
+      <AwardedProcedureType>Open</AwardedProcedureType>
+      <AwardedProcedureTypeOther xsi:nil="true" />
+      <AwardedProcedureAcceleratedJustification xsi:nil="true" />
+      <AnnexDOptionType xsi:nil="true" />
+      <AdditionalDetail xsi:nil="true" />
+      <AwardedToSME>false</AwardedToSME>
+      <AwardedToVCSO>false</AwardedToVCSO>
+      <AwardGuid>320f74e8-8d23-4c69-95f6-3ff93e01b285</AwardGuid>
+    </AwardDetail>
+  </Awards>
+  <IsPublished>true</IsPublished>
+  <IsPreAwarded>true</IsPreAwarded>
+  <Organisation>
+    <Name>Nottingham City Council</Name>
+  </Organisation>
+  <AdditionalDetails>
+    <AdditionalDetail>
+      <Id>9127b55b-4e75-476b-8d18-6d8b1922681d</Id>
+      <NoticeId>9127b55b-4e75-476b-8d18-6d8b1922681d</NoticeId>
+      <Description>Additional Text</Description>
+      <DataType>AdditionalText</DataType>
+      <TextData xsi:nil="true" />
+      <MimeType xsi:nil="true" />
+      <AwardGuid xsi:nil="true" />
+    </AdditionalDetail>
+  </AdditionalDetails>
+  <CpvCodes>
+    <CpvCode>
+      <Code>79000000</Code>
+      <Description>Business services: law, marketing, consulting, recruitment, printing and security</Description>
+      <ParentCode>79000000</ParentCode>
+      <HasChildren>true</HasChildren>
+    </CpvCode>
+    <CpvCode>
+      <Code>79900000</Code>
+      <Description>Miscellaneous business and business-related services</Description>
+      <ParentCode>79000000</ParentCode>
+      <HasChildren>true</HasChildren>
+    </CpvCode>
+  </CpvCodes>
+  <PublishedVersion>
+    <PublishedNoticeVersion>
+      <ChangedByUser>procontractv3.cflive@proactisinterfaces.com</ChangedByUser>
+      <DateChanged>2022-10-31T14:55:30Z</DateChanged>
+      <PublishedNoticeId>9127b55b-4e75-476b-8d18-6d8b1922681d</PublishedNoticeId>
+      <VersionNumber>1</VersionNumber>
+    </PublishedNoticeVersion>
+  </PublishedVersion>
+  <NumberOfViews>60</NumberOfViews>
+</FullNotice>
+</ArrayOfFullNotice>
